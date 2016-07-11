@@ -1,0 +1,30 @@
+{
+    "scripts": [
+        {
+            "name": "Test 1",
+            "download": "http://www.bulletforge.org/u/template/p/template-project-one",
+            "releasedate": "July 10, 2016",
+            "videos": [
+                {
+                    "youtubeid": "XNFWNmbuA_I",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play"
+                },
+                {
+                    "youtubeid": "Jka1cpUSTs8",
+                    "uploader": "Uruwi",
+                    "channelurl": "https://www.youtube.com/channel/UCGKwZGiP57GepW6TbNxNzGA",
+                    "type": "Standard"
+                }
+            ]
+        },
+        {
+            "name": "Test 2",
+            "download": "http://www.bulletforge.org/u/template/p/template-project-two",
+            "releasedate": "",
+            "videos": [
+            ]
+        }
+    ]
+}
