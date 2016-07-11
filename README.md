@@ -9,7 +9,8 @@ Of course, the database is incomplete, and that's where you come in!
 To add a new scripter, there are a few key points:
 * **Consent from the scripter in question is required to create or delete a user page.** This means that a scripter must personally make their page or contact Sparen to add them. Please note that this only refers to the _creation_ and _deletion_ of pages.
 * There needs to be a link to their page in index.html. This ensures that it is possible to navigate to the user page.
-* A new file must be created in /scripter. It is prefixed with a number and an underscore, and is followed by the name of the scripter in lowercase, with no spaces. For example: 1_sparenofiria.html. Please copy and paste the template, and update the title, meta description, and header with the scripter's name. If the scripter has a website/Youtube/etc, that should be linked. If they lack it, the div should be removed. Remember that Bootstrap requires the col-md-* to add up to 12 - adjust the columns appropriately. Additionally, in body's onload, update the json filepath so that the .html and .json have the same name (excluding the file extension)
+* A new file must be created in /scripter. It is prefixed with a number and an underscore, and is followed by the name of the scripter in lowercase, with no spaces. For example: 1_sparenofiria.html. Please copy and paste the template, and update the title, meta description, keywords, and header with the scripter's name. If the scripter has a website/Youtube/etc, that should be linked. If they lack it, the div should be removed. Remember that Bootstrap requires the col-md-* to add up to 12 - adjust the columns appropriately. Additionally, in body's onload, update the json filepath so that the .html and .json have the same name (excluding the file extension). See 1_sparenofiria.html for more examples
+* If the scripter has a Youtube channel, in addition to the Youtube link, it is also recommended that a subscribe button be added as well. See 1_sparenofiria.html for an example. If the channel has a long ID instead of a name, use data-channelid instead of data-channel
 * A new file needs to be created in /scripter - the json file. Naming conventions are stated above, but for clarity, if I have 1_sparenofiria.html, there should be a 1_sparenofiria.json corresponding to it.
 * Please follow the steps for formatting the .json file below
 
@@ -18,7 +19,12 @@ To add scripts, consent from the scripter is required, like above. **If a script
 
 As for the JSON itself, see the template. The JSON object contains a field called scripts, which is an array of all of the scripts, which are all individual objects in the array. They have a name field, a download field (for the download url), a release date (if applicable), as well as a videos field.
 
-The videos field is an array of objects, each with a youtube ID (when you see a link like https://www.youtube.com/watch?v=XNFWNmbuA_I, the part after the v= is the ID. In this case, XNFWNmbuA_I). Additionally, the uploader's name, the uploader's channel url, and the type of the video should be specified. Let's Play refers to a run of the script with voiced commentary. Standard contains no commentary and simply showcases the script.
+The videos field is an array of objects, each with a youtube ID (when you see a link like https://www.youtube.com/watch?v=XNFWNmbuA_I, the part after the v= is the ID. In this case, XNFWNmbuA_I). Additionally, the uploader's name, the uploader's channel url, and the type of the video should be specified. 
+
+* **Let's Play** refers to a run of the script with voiced commentary. 
+* **Standard** contains no commentary and simply showcases the script. 
+* **No Sound** refers to a run without any sound.
+* **No Sound Effects** refers to a run without sound effects.
 
 ## General Guidelines
 * Make sure that your submission actually renders correctly and works.
