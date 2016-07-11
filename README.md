@@ -1,9 +1,9 @@
 # DanmakufuVideos
 Hello, viewers, and welcome to the DanmakufuVideos repository!
 
-This database holds links to the videos made by the danmakufu community.
+This database holds links to the videos made by the danmakufu community. For those of you who want to use it, just download the repository! There are currently no plans for this to go live on the internet.
 
-Of course, it's incomplete, and that's where you come in!
+Of course, the database is incomplete, and that's where you come in!
 
 ## Submitting a new scripter
 To add a new scripter, there are a few key points:
