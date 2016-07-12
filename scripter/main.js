@@ -35,7 +35,7 @@ function parse() {
             for (j = 0; j < numvideos; j++) {
                 outputstring += '<tr>';
                 outputstring += '<td><a target="_blank" href="' + scripts[i].videos[j].channelurl + '">' + scripts[i].videos[j].uploader + '</a></td>';
-                outputstring += '<td><a target="_blank" href="https://www.youtube.com/watch?v=' + scripts[i].videos[j].youtubeid + '">Video</a></td>';
+                outputstring += '<td><a target="_blank" href="https://www.youtube.com/watch?v=' + scripts[i].videos[j].youtubeid + '">Video</a><br><img src="http://img.youtube.com/vi/' + scripts[i].videos[j].youtubeid + '/2.jpg"></td>';
                 outputstring += '<td>' + scripts[i].videos[j].type + '</td>';
                 outputstring += '</tr>';
             }
