@@ -1,0 +1,126 @@
+{
+    "scripts": [
+        {
+            "name": "Alice",
+            "download": "http://www.bulletforge.org/u/tressert/p/alice",
+            "releasedate": "",
+            "videos": [
+                {  
+                    "youtubeid": "cipF48hvbIA",
+                    "uploader": "Umbra",
+                    "channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
+                    "type": "Standard"
+                },
+                {  
+                    "youtubeid": "2kpgubKF9JA",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play"
+                }
+            ]
+        },
+        {
+            "name": "End of the Ordinary Witch",
+            "download": "http://www.bulletforge.org/u/tressert/p/end-of-the-ordinary-witch",
+            "releasedate": "",
+            "videos": [
+                {  
+                    "youtubeid": "5jNZK2NoFS0",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play"
+                },
+                {  
+                    "youtubeid": "eEBFLR-ymuE",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard"
+                }
+            ]
+        },
+        {
+            "name": "Percect Mastermind",
+            "download": "http://www.bulletforge.org/u/tressert/p/perfect-mastermind",
+            "releasedate": "January 26, 2016",
+            "videos": [
+                {  
+                    "youtubeid": "vJvnMOT0i7A",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play"
+                }
+            ]
+        },
+        {
+            "name": "The One-Winged White Heron",
+            "download": "http://www.bulletforge.org/u/tressert/p/the-one-winged-white-heron",
+            "releasedate": "",
+            "videos": [
+                {  
+                    "youtubeid": "urWA4hsTRWA",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play"
+                }
+            ]
+        },
+        {
+            "name": "Trick or Shoot - Hecatia's House of Hooorrooors",
+            "download": "http://www.bulletforge.org/u/tressert/p/range-15-hecatias-house-of-hooorroors-tresserts-entry",
+            "releasedate": "October 31, 2015",
+            "videos": [
+                {  
+                    "youtubeid": "5fTvobYofjc",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard"
+                }
+            ]
+        },
+        {
+            "name": "Popular Popularity ~ Reisen",
+            "download": "http://www.bulletforge.org/u/tressert/p/tresserts-popular-popularity",
+            "releasedate": "July 24, 2015",
+            "videos": [
+                {  
+                    "youtubeid": "t6h2J6Oz11c",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard"
+                },
+                {  
+                    "youtubeid": "HjuTg2AouT0",
+                    "uploader": "Conarnar",
+                    "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+                    "type": "Let's Play"
+                },
+                {  
+                    "youtubeid": "gfqpxLW8FrM",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard"
+                }
+            ]
+        },
+        {
+            "name": "Contradictory Catastrophe ~ Marisa",
+            "download": "http://www.bulletforge.org/u/tressert/p/contradictory-catastrophe-tressert",
+            "releasedate": "February 19, 2015",
+            "videos": [
+            ]
+        },
+        {
+            "name": "Incident Causer Mayhem ~ Kanako",
+            "download": "http://www.bulletforge.org/u/tressert/p/incident-causer-mayhem-tress-kanako",
+            "releasedate": "November 4, 2014",
+            "videos": [
+                {  
+                    "youtubeid": "TwiVq5L_tTc",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard"
+                }
+            ]
+        }
+    ]
+}
