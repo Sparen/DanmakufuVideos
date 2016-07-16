@@ -23,8 +23,8 @@ function parse() {
     for (i = 0; i < scripts.length; i++) {
         outputstring += '<div class="scriptdiv" id="' + scripts[i].divid + '">';
         outputstring += '<h1>' + scripts[i].name + '</h1>';
-        outputstring += '<p><a href="#' + scripts[i].divid + '" class="btn btn-info" role="button">Link to this Entry</a></p>'
-        outputstring += '<p><a target="_blank" href="' + scripts[i].download + '">Download Link</a></p>';
+        outputstring += '<p><a target="_blank" href="' + scripts[i].download + '" class="btn btn-primary" role="button">Download Link</a>&nbsp;';
+        outputstring += '<a href="#' + scripts[i].divid + '" class="btn btn-info" role="button">Link to this Entry</a></p>'
         outputstring += '<p>Release Date: ' + scripts[i].releasedate + '</p>';
         var numvideos = scripts[i].videos.length;
         if (numvideos == 0) {
