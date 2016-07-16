@@ -7,11 +7,12 @@
             "videos": [
                 {
                     "youtubeid": "qXjvFX1aJYo",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "range16"
         },
         {
             "name": "Danmakufu Wars: Sparen vs PhantomSong",
@@ -20,11 +21,12 @@
             "videos": [
                 {
                     "youtubeid": "xJfH0Wic138",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "dnhwars"
         },
         {
             "name": "ICM Contest: The Avatar of Mountains and Lakes",
@@ -33,11 +35,12 @@
             "videos": [
                 {
                     "youtubeid": "lmAdPwu4uMY",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "range12"
         },
         {
             "name": "LOCAA Contest 6: Danmakufu Troll Stars",
@@ -46,7 +49,7 @@
             "videos": [
                 {
                     "youtubeid": "qoTaRIdI8o8",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 },
@@ -62,7 +65,8 @@
                     "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
                     "type": "Let's Play"
                 }
-            ]
+            ],
+            "divid": "locaa6"
         },
         {
             "name": "AAA Contest: Nuclear Hell Raven",
@@ -71,11 +75,12 @@
             "videos": [
                 {
                     "youtubeid": "6rie53Kr1RU",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "range11"
         },
         {
             "name": "Artifact Contest 2: Of Celestials and Master Sparks",
@@ -84,11 +89,12 @@
             "videos": [
                 {
                     "youtubeid": "pN0pSrhuo98",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "artifact2"
         },
         {
             "name": "LOCAA Contest 4: Death Match in the Skies",
@@ -97,7 +103,7 @@
             "videos": [
                 {
                     "youtubeid": "TaJTB4qaaEc",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 },
@@ -107,7 +113,8 @@
                     "channelurl": "https://www.youtube.com/user/vichycatalan",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "locaa4"
         },
         {
             "name": "Halloween Contest: Sekibanki Boss Battle",
@@ -116,11 +123,12 @@
             "videos": [
                 {
                     "youtubeid": "YvSQGwUrWo0",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "halloween2013"
         },
         {
             "name": "RaNGE Contest 10: Sanae Boss Battle",
@@ -129,7 +137,7 @@
             "videos": [
                 {
                     "youtubeid": "afvm8FWKWWQ",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 },
@@ -139,7 +147,8 @@
                     "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
                     "type": "Let's Play"
                 }
-            ]
+            ],
+            "divid": "range10"
         },
         {
             "name": "LOCAA Contest 3: Suicune Boss Battle",
@@ -148,7 +157,7 @@
             "videos": [
                 {
                     "youtubeid": "slYZIUQ4LPo",
-                    "uploader": "Sparen",
+                    "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "No Sound Effects"
                 },
@@ -158,7 +167,8 @@
                     "channelurl": "https://www.youtube.com/channel/UCySP02HqY3I3sSnKFMHZSNg",
                     "type": "Let's Play"
                 }
-            ]
+            ],
+            "divid": "locaa3"
         }
     ]
 }

@@ -22,12 +22,14 @@ To add scripts, consent from the scripter is required, like above. **If a script
 
 As for the JSON itself, see the template. The JSON object contains a field called scripts, which is an array of all of the scripts, which are all individual objects in the array. They have a name field, a download field (for the download url), a release date (if applicable), as well as a videos field.
 
-The videos field is an array of objects, each with a youtube ID (when you see a link like https://www.youtube.com/watch?v=XNFWNmbuA_I, the part after the v= is the ID. In this case, XNFWNmbuA_I). Additionally, the uploader's name, the uploader's channel url, and the type of the video should be specified. 
+The videos field is an array of objects, each with a youtube ID (when you see a link like https://www.youtube.com/watch?v=XNFWNmbuA_I, the part after the v= is the ID. In this case, XNFWNmbuA_I). Additionally, the uploader's name, the uploader's channel url, and the type of the video should be specified. If the uploader is the same person as the scripter, please use boldface. Ex: `"<b>Sparen</b>"` instead of just "Sparen".
 
 * **Let's Play** refers to a run of the script with voiced commentary. 
 * **Standard** contains no commentary and simply showcases the script. 
 * **No Sound** refers to a run without any sound.
 * **No Sound Effects** refers to a run without sound effects.
+
+And finally, the divid field is used for a unique ID that will be used to link to a certain part of the html file (in this case, link to the box for a given script). Contest names are preferred if available (see 1_sparenofiria.json).
 
 ## General Guidelines
 * Make sure that your submission actually renders correctly and works.

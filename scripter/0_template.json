@@ -17,14 +17,16 @@
                     "channelurl": "https://www.youtube.com/channel/UCGKwZGiP57GepW6TbNxNzGA",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "test1"
         },
         {
             "name": "Test 2",
             "download": "http://www.bulletforge.org/u/template/p/template-project-two",
             "releasedate": "",
             "videos": [
-            ]
+            ],
+            "divid": "test2"
         }
     ]
 }

@@ -17,7 +17,8 @@
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play"
                 }
-            ]
+            ],
+            "divid": "locaa8"
         },
         {
             "name": "End of the Ordinary Witch",
@@ -36,7 +37,8 @@
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "locaa7"
         },
         {
             "name": "Percect Mastermind",
@@ -49,7 +51,8 @@
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Let's Play"
                 }
-            ]
+            ],
+            "divid": "range16"
         },
         {
             "name": "The One-Winged White Heron",
@@ -62,7 +65,8 @@
                     "channelurl": "https://www.youtube.com/user/PikminH",
                     "type": "Let's Play"
                 }
-            ]
+            ],
+            "divid": "sagume"
         },
         {
             "name": "Trick or Shoot - Hecatia's House of Hooorrooors",
@@ -75,7 +79,8 @@
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "range15"
         },
         {
             "name": "Popular Popularity ~ Reisen",
@@ -100,14 +105,16 @@
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "range14"
         },
         {
             "name": "Contradictory Catastrophe ~ Marisa",
             "download": "http://www.bulletforge.org/u/tressert/p/contradictory-catastrophe-tressert",
             "releasedate": "February 19, 2015",
             "videos": [
-            ]
+            ],
+            "divid": "range13"
         },
         {
             "name": "Incident Causer Mayhem ~ Kanako",
@@ -120,7 +127,8 @@
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
                 }
-            ]
+            ],
+            "divid": "range12"
         }
     ]
 }
