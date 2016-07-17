@@ -25,6 +25,7 @@ As for the JSON itself, see the template. The JSON object contains a field calle
 The videos field is an array of objects, each with a youtube ID (when you see a link like https://www.youtube.com/watch?v=XNFWNmbuA_I, the part after the v= is the ID. In this case, XNFWNmbuA_I). Additionally, the uploader's name, the uploader's channel url, and the type of the video should be specified. If the uploader is the same person as the scripter, please use boldface. Ex: `"<b>Sparen</b>"` instead of just "Sparen".
 
 * **Let's Play** refers to a run of the script with voiced commentary. 
+* **Unvoiced Commentary** refers to a standard run of the script with text commentary. 
 * **Standard** contains no commentary and simply showcases the script. 
 * **No Sound** refers to a run without any sound.
 * **No Sound Effects** refers to a run without sound effects.

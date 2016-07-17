@@ -1,0 +1,100 @@
+{
+    "scripts": [
+        {
+            "name": "LoCAA 8 Entry - Flower Land ~ Inanimate Dream",
+            "download": "https://www.dropbox.com/s/vpun9isr5al4e0r/LoCAA%208%20Entry%20-%20Yuuka%20Kazami%20by%20Guilmon.rar",
+            "releasedate": "",
+            "videos": [
+                {  
+                    "youtubeid": "JmturmS6lps",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play"
+                }
+            ],
+            "divid": "locaa8"
+        },
+        {
+            "name": "Sakuya Izayoi",
+            "download": "https://www.dropbox.com/s/slicaa1ey10e0x3/Sakuya%20Izayoi%20by%20DLS.rar",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "sakuya"
+        },
+        {
+            "name": "LoCAA 7 Entry - Armageddemon",
+            "download": "http://www.bulletforge.org/u/ps/p/locaa-7-entry-armageddemon",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "locaa7"
+        },
+        {
+            "name": "Benben Tsukumo",
+            "download": "http://www.bulletforge.org/u/ps/p/benben-tsukumo",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "benben"
+        },
+        {
+            "name": "Minamitsu Murasa",
+            "download": "http://www.bulletforge.org/u/ps/p/minamitsu-murasa",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "minamitsu"
+        },
+        {
+            "name": "RaNGE 15 Entry - Lily White and Wriggle Nightbug",
+            "download": "http://www.bulletforge.org/u/ps/p/range-15-entry-lily-white-and-wriggle-nightbug",
+            "releasedate": "October 22, 2015",
+            "videos": [
+                {  
+                    "youtubeid": "JAdoS4ydFNI",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard"
+                },
+                {  
+                    "youtubeid": "zomUcMGVj6A",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play"
+                }
+            ],
+            "divid": "range15"
+        },
+        {
+            "name": "Kogasa Tatara",
+            "download": "http://www.bulletforge.org/u/ps/p/kogasa-tatara",
+            "releasedate": "October 11, 2015",
+            "videos": [
+            ],
+            "divid": "kogasa"
+        },
+        {
+            "name": "Yukari Yakumo",
+            "download": "http://www.bulletforge.org/u/ps/p/yukari-yakumo",
+            "releasedate": "August 9, 2015",
+            "videos": [
+                {  
+                    "youtubeid": "XmufChKEtbg",
+                    "uploader": "Misaki Rindou",
+                    "channelurl": "https://www.youtube.com/channel/UCBh5Em-Fl-PKneKkkWBQ5Eg",
+                    "type": "Unvoiced Commentary"
+                }
+            ],
+            "divid": "yukari"
+        },
+        {
+            "name": "Remilia Scarlet",
+            "download": "http://www.bulletforge.org/u/ps/p/remilia-scarlet",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "remilia"
+        }
+    ]
+}
