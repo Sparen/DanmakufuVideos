@@ -3,7 +3,7 @@ Hello, viewers, and welcome to the DanmakufuVideos repository!
 
 This database holds links to the videos made by the danmakufu community. Looking for videos of a particular script? Want to see flashy danmaku or find Let's Plays? That's what this database is for.
 
-This database is live at http://sparen.github.io/DanmakufuVideos/ 
+This database is live at https://sparen.github.io/DanmakufuVideos/ 
 
 Of course, the database is incomplete, and that's where you come in!
 
