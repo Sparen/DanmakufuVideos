@@ -48,6 +48,20 @@
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard",
                     "notes": ""
+                },
+                {
+                    "youtubeid": "fyD_HFDdsq8",
+                    "uploader": "vichycatalan",
+                    "channelurl": "https://www.youtube.com/user/vichycatalan",
+                    "type": "Standard",
+                    "notes": "v1.00a"
+                },
+                {
+                    "youtubeid": "AV6WXIaSGnw",
+                    "uploader": "Ephydament (Lefkada)",
+                    "channelurl": "https://www.youtube.com/channel/UC1gK11EqnhBho2IcK3mEF8A",
+                    "type": "Standard",
+                    "notes": "Perfect"
                 }
             ],
             "divid": "range12"
@@ -69,13 +83,20 @@
                     "uploader": "Lunarethic",
                     "channelurl": "https://www.youtube.com/channel/UCIsD6C7oLQKL6t1xGUtpS8g",
                     "type": "Standard",
-                    "notes": ""
+                    "notes": "Semi-blind"
                 },
                 {
                     "youtubeid": "0aU7fJKEHaQ",
                     "uploader": "Ozzie840 (ExPorygon)",
                     "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
                     "type": "Let's Play",
+                    "notes": "Blind"
+                },
+                {
+                    "youtubeid": "xz_LVyMMSUs",
+                    "uploader": "Kendall Rust",
+                    "channelurl": "https://www.youtube.com/channel/UCn43qiHBQ-A1rkNgPstUskw",
+                    "type": "Standard",
                     "notes": ""
                 }
             ],
@@ -90,6 +111,13 @@
                     "youtubeid": "6rie53Kr1RU",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "2doMQcMgj4s",
+                    "uploader": "vichycatalan",
+                    "channelurl": "https://www.youtube.com/user/vichycatalan",
                     "type": "Standard",
                     "notes": ""
                 }
@@ -107,6 +135,13 @@
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard",
                     "notes": ""
+                },
+                {
+                    "youtubeid": "tz8_Q2kW1TU",
+                    "uploader": "Miransu Uwabami",
+                    "channelurl": "https://www.youtube.com/channel/UCse1W7tEW16t7qwkn6APBhQ",
+                    "type": "Standard",
+                    "notes": "Blind"
                 }
             ],
             "divid": "artifact2"
