@@ -24,6 +24,12 @@
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard"
+                },
+                {  
+                    "youtubeid": "94FD_3tvFwY",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard"
                 }
             ],
             "divid": "dnhwars"
