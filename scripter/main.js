@@ -8,6 +8,9 @@ function setup(filepath) {
             if (client.status == 200 || client.status == 0) {
                 database_obj = JSON.parse(client.responseText);
                 document.getElementById("maindiv").innerHTML = parse();
+                document.getElementById("footer").innerHTML = '<p><a href="./../index.html">Return to Scripter Select</a></p>' +
+                    '<p><a href="http://sparen.github.io">sparen.github.io</a></p>' + 
+                    '<p><a target="_blank" href="https://github.com/Sparen/DanmakufuVideos">Git repository</a></p>';
             }
         }
     };

@@ -37,6 +37,7 @@ And finally, the divid field is used for a unique ID that will be used to link t
 * Make sure your json is valid and you haven't forgotten or left a random comma somewhere
 * Outdated information should be removed whenever possible
 * Scripts are in reverse order of release, with **newer projects at the top**. 
+* Compilation videos are not to be included.
 
 And yes, I will revise all of your pull requests...
 
