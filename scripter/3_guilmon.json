@@ -9,7 +9,8 @@
                     "youtubeid": "JmturmS6lps",
                     "uploader": "ParadoxPython (Python)",
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "locaa8"
@@ -55,13 +56,15 @@
                     "youtubeid": "JAdoS4ydFNI",
                     "uploader": "Kirakishou7",
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 },
                 {  
                     "youtubeid": "zomUcMGVj6A",
                     "uploader": "Pikmin H",
                     "channelurl": "https://www.youtube.com/user/PikminH",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "range15"
@@ -83,7 +86,8 @@
                     "youtubeid": "XmufChKEtbg",
                     "uploader": "Misaki Rindou",
                     "channelurl": "https://www.youtube.com/channel/UCBh5Em-Fl-PKneKkkWBQ5Eg",
-                    "type": "Unvoiced Commentary"
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
                 }
             ],
             "divid": "yukari"

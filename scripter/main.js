@@ -31,13 +31,14 @@ function parse() {
             outputstring += '<p>There are no videos available for this script. If there are videos and you would like to contribute them, please consider sending in a pull request.</p>';
         } else {
             outputstring += '<table class="table table-condensed table-bordered">';
-            outputstring += '<tr><th>Uploader</th><th>Link</th><th>Video Type</th></tr>';
+            outputstring += '<tr><th>Uploader</th><th>Link</th><th>Video Type</th><th>Notes</th></tr>';
             var j; //used to iterate through videos
             for (j = 0; j < numvideos; j++) {
                 outputstring += '<tr>';
                 outputstring += '<td><a target="_blank" href="' + scripts[i].videos[j].channelurl + '">' + scripts[i].videos[j].uploader + '</a></td>';
                 outputstring += '<td><a target="_blank" href="https://www.youtube.com/watch?v=' + scripts[i].videos[j].youtubeid + '">Video</a><br><img src="http://img.youtube.com/vi/' + scripts[i].videos[j].youtubeid + '/2.jpg"></td>';
                 outputstring += '<td>' + scripts[i].videos[j].type + '</td>';
+                outputstring += '<td>' + scripts[i].videos[j].notes + '</td>';
                 outputstring += '</tr>';
             }
             outputstring += '</table>';

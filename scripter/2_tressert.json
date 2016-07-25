@@ -9,13 +9,15 @@
                     "youtubeid": "cipF48hvbIA",
                     "uploader": "Umbra",
                     "channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 },
                 {  
                     "youtubeid": "2kpgubKF9JA",
                     "uploader": "ParadoxPython (Python)",
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "locaa8"
@@ -29,13 +31,15 @@
                     "youtubeid": "5jNZK2NoFS0",
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 },
                 {  
                     "youtubeid": "eEBFLR-ymuE",
                     "uploader": "Kirakishou7",
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "locaa7"
@@ -49,7 +53,8 @@
                     "youtubeid": "vJvnMOT0i7A",
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "range16"
@@ -63,7 +68,8 @@
                     "youtubeid": "urWA4hsTRWA",
                     "uploader": "Pikmin H",
                     "channelurl": "https://www.youtube.com/user/PikminH",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "sagume"
@@ -77,7 +83,8 @@
                     "youtubeid": "5fTvobYofjc",
                     "uploader": "Kirakishou7",
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "range15"
@@ -91,19 +98,22 @@
                     "youtubeid": "t6h2J6Oz11c",
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 },
                 {  
                     "youtubeid": "HjuTg2AouT0",
                     "uploader": "Conarnar",
                     "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 },
                 {  
                     "youtubeid": "gfqpxLW8FrM",
                     "uploader": "Kirakishou7",
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "range14"
@@ -125,7 +135,8 @@
                     "youtubeid": "TwiVq5L_tTc",
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "range12"

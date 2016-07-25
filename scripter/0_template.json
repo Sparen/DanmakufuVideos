@@ -9,13 +9,15 @@
                     "youtubeid": "XNFWNmbuA_I",
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 },
                 {
                     "youtubeid": "Jka1cpUSTs8",
                     "uploader": "Uruwi",
                     "channelurl": "https://www.youtube.com/channel/UCGKwZGiP57GepW6TbNxNzGA",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "test1"

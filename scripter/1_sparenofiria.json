@@ -9,7 +9,8 @@
                     "youtubeid": "qXjvFX1aJYo",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "range16"
@@ -23,13 +24,15 @@
                     "youtubeid": "xJfH0Wic138",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 },
                 {  
                     "youtubeid": "94FD_3tvFwY",
                     "uploader": "Kirakishou7",
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "dnhwars"
@@ -43,7 +46,8 @@
                     "youtubeid": "lmAdPwu4uMY",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "range12"
@@ -57,19 +61,22 @@
                     "youtubeid": "qoTaRIdI8o8",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 },
                 {
                     "youtubeid": "ZjkfN0NpK0Q",
                     "uploader": "Lunarethic",
                     "channelurl": "https://www.youtube.com/channel/UCIsD6C7oLQKL6t1xGUtpS8g",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 },
                 {
                     "youtubeid": "0aU7fJKEHaQ",
                     "uploader": "Ozzie840 (ExPorygon)",
                     "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "locaa6"
@@ -83,7 +90,8 @@
                     "youtubeid": "6rie53Kr1RU",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "range11"
@@ -97,7 +105,8 @@
                     "youtubeid": "pN0pSrhuo98",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "artifact2"
@@ -111,13 +120,15 @@
                     "youtubeid": "TaJTB4qaaEc",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 },
                 {
                     "youtubeid": "bRbkI-LFTJ4",
                     "uploader": "vichycatalan",
                     "channelurl": "https://www.youtube.com/user/vichycatalan",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "locaa4"
@@ -131,7 +142,8 @@
                     "youtubeid": "YvSQGwUrWo0",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "halloween2013"
@@ -145,13 +157,15 @@
                     "youtubeid": "afvm8FWKWWQ",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Standard"
+                    "type": "Standard",
+                    "notes": ""
                 },
                 {
                     "youtubeid": "icgtOFJt8bE",
                     "uploader": "Ozzie840 (ExPorygon)",
                     "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "range10"
@@ -165,13 +179,15 @@
                     "youtubeid": "slYZIUQ4LPo",
                     "uploader": "<b>Sparen</b>",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "No Sound Effects"
+                    "type": "No Sound Effects",
+                    "notes": ""
                 },
                 {
                     "youtubeid": "zXpiENqr0BE",
                     "uploader": "Metroidiscool (Rogus)",
                     "channelurl": "https://www.youtube.com/channel/UCySP02HqY3I3sSnKFMHZSNg",
-                    "type": "Let's Play"
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "locaa3"
