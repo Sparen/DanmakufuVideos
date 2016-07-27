@@ -25,6 +25,13 @@
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "nal673b7Ur0",
+                    "uploader": "Umbra",
+                    "channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "locaa8"
@@ -55,6 +62,13 @@
                     "channelurl": "https://www.youtube.com/channel/UCZ5215lQMfNIRLN3es-XTEg",
                     "type": "Standard",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "cnt2AQvYhfE",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "sebastian"
@@ -64,6 +78,13 @@
             "download": "http://www.bulletforge.org/u/gizmo-the-dragon/p/contest-entry-krystal-boss-fight",
             "releasedate": "",
             "videos": [
+                {  
+                    "youtubeid": "LAtmOnYgzjY",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "krystal"
         },
@@ -92,6 +113,20 @@
                     "uploader": "<b>Gizmo the Dragon</b>",
                     "channelurl": "https://www.youtube.com/channel/UCZ5215lQMfNIRLN3es-XTEg",
                     "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "UWA97E2qatc",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "sI_PT-_GU00",
+                    "uploader": "Conarnar",
+                    "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+                    "type": "Let's Play",
                     "notes": ""
                 }
             ],
