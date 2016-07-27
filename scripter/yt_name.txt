@@ -1,0 +1,48 @@
+yt_name standards
+
+So that we have a consistent uploader naming convention across the entire database.
+
+"uploader": "Conarnar",
+"channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+
+"uploader": "Ephydament (Lefkada)",
+"channelurl": "https://www.youtube.com/channel/UC1gK11EqnhBho2IcK3mEF8A",
+
+"uploader": "Gizmo the Dragon",
+"channelurl": "https://www.youtube.com/channel/UCZ5215lQMfNIRLN3es-XTEg",
+
+"uploader": "Kendall Rust",
+"channelurl": "https://www.youtube.com/channel/UCn43qiHBQ-A1rkNgPstUskw",
+
+"uploader": "Kirakishou7",
+"channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+
+"uploader": "Lunarethic",
+"channelurl": "https://www.youtube.com/channel/UCIsD6C7oLQKL6t1xGUtpS8g",
+
+"uploader": "Metroidiscool (Rogus)",
+"channelurl": "https://www.youtube.com/channel/UCySP02HqY3I3sSnKFMHZSNg",
+
+"uploader": "Miransu Uwabami",
+"channelurl": "https://www.youtube.com/channel/UCse1W7tEW16t7qwkn6APBhQ",
+
+"uploader": "Misaki Rindou",
+"channelurl": "https://www.youtube.com/channel/UCBh5Em-Fl-PKneKkkWBQ5Eg",
+
+"uploader": "Ozzie840 (ExPorygon)",
+"channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
+
+"uploader": "ParadoxPython (Python)",
+"channelurl": "https://www.youtube.com/user/MrCountryfruit",
+
+"uploader": "Pikmin H",
+"channelurl": "https://www.youtube.com/user/PikminH",
+
+"uploader": "Sparen",
+"channelurl": "https://www.youtube.com/user/SparenofIria",
+
+"uploader": "Umbra",
+"channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
+
+"uploader": "vichycatalan",
+"channelurl": "https://www.youtube.com/user/vichycatalan",
