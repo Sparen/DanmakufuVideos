@@ -1,0 +1,101 @@
+{
+    "scripts": [
+        {
+            "name": "LoCAA8 Entry: Who Prefers Only Purest Tastes",
+            "download": "http://www.bulletforge.org/u/gizmo-the-dragon/p/locaa8-entry-who-prefers-only-purest-tastes",
+            "releasedate": "",
+            "videos": [
+                {  
+                    "youtubeid": "bb6UsDOqySw",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "tS4sK9QRDUc",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "2rSXo-Bfxhg",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "locaa8"
+        },
+        {
+            "name": "Contest Entry: Wolfgang Boss Fight!!",
+            "download": "http://www.bulletforge.org/u/gizmo-the-dragon/p/contest-entry-wolfgang-boss-fight",
+            "releasedate": "",
+            "videos": [
+                {  
+                    "youtubeid": "HdZWbvrwg-M",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "locaa7"
+        },
+        {
+            "name": "Contest Entry: Sebastian Boss Fight!!",
+            "download": "http://www.bulletforge.org/u/gizmo-the-dragon/p/contest-entry-sebastian-boss-fight",
+            "releasedate": "",
+            "videos": [
+                {  
+                    "youtubeid": "lClEdbbCDyQ",
+                    "uploader": "<b>Gizmo the Dragon</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCZ5215lQMfNIRLN3es-XTEg",
+                    "type": "Standard",
+                    "notes": ""
+                }
+            ],
+            "divid": "sebastian"
+        },
+        {
+            "name": "Contest Entry: Krystal Boss Fight!",
+            "download": "http://www.bulletforge.org/u/gizmo-the-dragon/p/contest-entry-krystal-boss-fight",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "krystal"
+        },
+        {
+            "name": "Contest Entry: Tenebris Boss Fight!",
+            "download": "http://www.bulletforge.org/u/gizmo-the-dragon/p/contest-entry-tenebris-boss-fight",
+            "releasedate": "",
+            "videos": [
+                {  
+                    "youtubeid": "fGvfTLCXR5o",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "tenebris"
+        },
+        {
+            "name": "RaNGE Popular Popularity Entry: Momiji!!",
+            "download": "http://www.bulletforge.org/u/gizmo-the-dragon/p/range-popular-popularity-entry-momiji-180",
+            "releasedate": "July 30, 2015",
+            "videos": [
+                {  
+                    "youtubeid": "Hqo8tDsCe6w",
+                    "uploader": "<b>Gizmo the Dragon</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCZ5215lQMfNIRLN3es-XTEg",
+                    "type": "Standard",
+                    "notes": ""
+                }
+            ],
+            "divid": "range14"
+        }
+    ]
+}
