@@ -5,6 +5,9 @@ So that we have a consistent uploader naming convention across the entire databa
 "uploader": "Conarnar",
 "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
 
+"uploader": "CreepyNinja",
+"channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+
 "uploader": "Ephydament (Lefkada)",
 "channelurl": "https://www.youtube.com/channel/UC1gK11EqnhBho2IcK3mEF8A",
 
