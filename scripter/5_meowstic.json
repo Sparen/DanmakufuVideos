@@ -5,6 +5,27 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/locaa-8-an-unknown-white-ufo",
             "releasedate": "",
             "videos": [
+                {
+                    "youtubeid": "NXz3XibygKo",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "pa23D-bRRec",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "FR2piK-d7lU",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "locaa8"
         },
@@ -13,6 +34,20 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/orin-boss-fight",
             "releasedate": "",
             "videos": [
+                {
+                    "youtubeid": "Cxa0kiaIoj4",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "DXGF-UiNS9k",
+                    "uploader": "Ozzie840 (ExPorygon)",
+                    "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "orin"
         },
@@ -21,6 +56,20 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/locaa-7-entry-reflection-cave",
             "releasedate": "",
             "videos": [
+                {
+                    "youtubeid": "Y65atVZbZIw",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "jSELwF49nLM",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "locaa7"
         },
@@ -29,6 +78,13 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/where-the-firefly-flies-range-16",
             "releasedate": "January 21, 2016",
             "videos": [
+                {
+                    "youtubeid": "ELheb4TWjvo",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "range16"
         }
