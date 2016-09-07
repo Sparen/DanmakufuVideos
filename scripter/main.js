@@ -10,6 +10,7 @@ function setup(filepath) {
                 document.getElementById("maindiv").innerHTML = parse();
                 document.getElementById("footer").innerHTML = '<p><a href="./../index.html">Return to Scripter Select</a></p>' +
                     '<p><a href="http://sparen.github.io">sparen.github.io</a></p>' + 
+                    '<p>This page was generated from a local database that may not be up to date. Want to add to the database? See the repository on Github, linked below.</p>' +
                     '<p><a target="_blank" href="https://github.com/Sparen/DanmakufuVideos">Github repository</a></p>';
             }
         }
