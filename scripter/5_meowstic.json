@@ -1,0 +1,36 @@
+{
+    "scripts": [
+        {
+            "name": "An Unknown White UFO",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/locaa-8-an-unknown-white-ufo",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "locaa8"
+        },
+        {
+            "name": "Orin Boss Fight",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/orin-boss-fight",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "orin"
+        },
+        {
+            "name": "Reflection Cave",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/locaa-7-entry-reflection-cave",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "locaa7"
+        },
+        {
+            "name": "Where the Firefly Flies",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/where-the-firefly-flies-range-16",
+            "releasedate": "January 21, 2016",
+            "videos": [
+            ],
+            "divid": "range16"
+        }
+    ]
+}
