@@ -1,6 +1,28 @@
 {
     "scripts": [
         {
+            "name": "The Strings of the Spider's Web",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/the-strings-of-the-spiders-web",
+            "releasedate": "September 28, 2016",
+            "videos": [
+                {  
+                    "youtubeid": "NZj1hEl8j6Q",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "Pz6Ldu7QBNo",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": ""
+                }
+            ],
+            "divid": "yamame"
+        },
+        {
             "name": "An Unknown White UFO",
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/locaa-8-an-unknown-white-ufo",
             "releasedate": "",
