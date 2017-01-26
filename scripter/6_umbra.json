@@ -1,0 +1,33 @@
+{
+    "scripts": [
+        {
+            "name": "Len'en Contest - Suzubami",
+            "download": "http://www.bulletforge.org/u/umbra/p/lenen-contest-suzubami",
+            "releasedate": "Jan 25, 2017",
+            "videos": [
+                {
+                    "youtubeid": "CJ2PZOyB-1E",
+                    "uploader": "<b>Umbra</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "byIgSM4pAj0",
+                    "uploader": "Conarnar",
+                    "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "FUOqkbqb4VU",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "lenen1"
+        }
+    ]
+}

@@ -29,4 +29,14 @@
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
+<url>
+<loc>https://sparen.github.io/DanmakufuVideos/scripter/5_meowstic.html</loc>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://sparen.github.io/DanmakufuVideos/scripter/6_umbra.html</loc>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
 </urlset>
