@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "Danmakufu Wars ~ Hata no Kokoro (Tres vs Sphe)",
+            "download": "http://www.bulletforge.org/u/tressert/p/danmakufu-wars-hata-no-kokoro-tres-vs-sphe",
+            "releasedate": "",
+            "videos": [
+            ],
+            "divid": "dnhwarssphe1"
+        },
+        {
             "name": "Alice",
             "download": "http://www.bulletforge.org/u/tressert/p/alice",
             "releasedate": "",
