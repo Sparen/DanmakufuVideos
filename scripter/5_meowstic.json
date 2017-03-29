@@ -5,6 +5,20 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/shousquared",
             "releasedate": "February 28, 2017",
             "videos": [
+                {  
+                    "youtubeid": "uo4FJfRWHiA",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "e0xNjYxiBxg",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "shou2"
         },
