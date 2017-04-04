@@ -5,6 +5,13 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/locaa-10-201x-invasion",
             "releasedate": "April 2, 2017",
             "videos": [
+                {  
+                    "youtubeid": "RkbhE1mTohs",
+                    "uploader": "Trickysticks",
+                    "channelurl": "https://www.youtube.com/user/MrTrickysticks",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "locaa10"
         },
