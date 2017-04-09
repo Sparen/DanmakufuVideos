@@ -84,6 +84,13 @@
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "BDIesN2lgeg",
+                    "uploader": "Pruns",
+                    "channelurl": "https://www.youtube.com/channel/UCTPlfkRQoFmvw5FHszZ7rlg",
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "yamame"
