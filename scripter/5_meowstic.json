@@ -18,6 +18,13 @@
                     "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
                     "type": "Standard",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "__-alVH5Gwk",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "locaa10"
