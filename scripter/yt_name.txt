@@ -23,6 +23,9 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Lunarethic",
                     "channelurl": "https://www.youtube.com/channel/UCIsD6C7oLQKL6t1xGUtpS8g",
 
+                    "uploader": "MegamanOmega184",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+
                     "uploader": "Metroidiscool (Rogus)",
                     "channelurl": "https://www.youtube.com/channel/UCySP02HqY3I3sSnKFMHZSNg",
 
