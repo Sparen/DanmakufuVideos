@@ -1,6 +1,21 @@
 {
     "scripts": [
         {
+            "name": "Aunn Komano Boss Battle",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/aunn-komano-boss-battle",
+            "releasedate": "May 8, 2017",
+            "videos": [
+                {  
+                    "youtubeid": "DFEtrGbTt5s",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "aunn"
+        },
+        {
             "name": "Locaa 10 ~ 201X Invasion",
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/locaa-10-201x-invasion",
             "releasedate": "April 2, 2017",
