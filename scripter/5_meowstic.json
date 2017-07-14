@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "RE: Kana & Ellen Script",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/re-kana-ellen-script",
+            "releasedate": "June 25, 2017",
+            "videos": [
+            ],
+            "divid": "rekanaellen"
+        },
+        {
             "name": "Aunn Komano Boss Battle",
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/aunn-komano-boss-battle",
             "releasedate": "May 8, 2017",

@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "RaNGE Contest 17: Shimmering Cyclochasm",
+            "download": "http://www.bulletforge.org/u/sparen/p/range-17-shimmering-cyclochasm",
+            "releasedate": "July 13, 2017",
+            "videos": [
+            ],
+            "divid": "range17"
+        },
+        {
             "name": "RaNGE Contest 16: Descent of the Mochi Hammer",
             "download": "http://www.bulletforge.org/u/sparen/p/range-16-descent-of-the-mochi-hammer",
             "releasedate": "January 25, 2016",
