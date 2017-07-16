@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "RaNGE 17 Futo Script",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/range-17-futo-script",
+            "releasedate": "July 16, 2017",
+            "videos": [
+            ],
+            "divid": "range17"
+        },
+        {
             "name": "RE: Kana & Ellen Script",
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/re-kana-ellen-script",
             "releasedate": "June 25, 2017",
