@@ -32,6 +32,8 @@ The videos field is an array of objects, each with a youtube ID (when you see a 
 
 And finally, the divid field is used for a unique ID that will be used to link to a certain part of the html file (in this case, link to the box for a given script). Contest names are preferred if available (see 1_sparenofiria.json).
 
+In regards to the uploader's name and channel url, refer to scripter/yt_name.txt for copy-pastable data.
+
 ## General Guidelines
 * Make sure that your submission actually renders correctly and works.
 * Make sure your json is valid and you haven't forgotten or left a random comma somewhere
