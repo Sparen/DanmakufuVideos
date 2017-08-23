@@ -17,7 +17,7 @@ To add a new scripter, there are a few key points:
 * A new file needs to be created in /scripter - the json file. Naming conventions are stated above, but for clarity, if I have 1_sparenofiria.html, there should be a 1_sparenofiria.json corresponding to it.
 * Please follow the steps for formatting the .json file below
 
-## Adding to the json file
+## Adding to the json file/Updating a scripter's scripts and videos
 To add scripts, consent from the scripter is required, like above. **If a script was released for a public contest, it is assumed that consent has been provided.** However, there is no such restriction for adding a video to an existing script.
 
 As for the JSON itself, see the template. The JSON object contains a field called scripts, which is an array of all of the scripts, which are all individual objects in the array. They have a name field, a download field (for the download url), a release date (if applicable), as well as a videos field.
