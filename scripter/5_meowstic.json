@@ -1,6 +1,21 @@
 {
     "scripts": [
         {
+            "name": "Okina Matara Boss Battle",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/okina-matara-boss-battle",
+            "releasedate": "August 14, 2017",
+            "videos": [
+                {  
+                    "youtubeid": "9qqfK4frChw",
+                    "uploader": "<b>DryTheMeowstic</b>",
+                    "channelurl": "https://www.youtube.com/channel/UC3LiI0ABvHNXD4KEWMvw-jw",
+                    "type": "Standard",
+                    "notes": "Troll"
+                }
+            ],
+            "divid": "okina"
+        },
+        {
             "name": "Nuclear Hell",
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/nuclear-hell",
             "releasedate": "July 22, 2017",
@@ -9,6 +24,13 @@
                     "youtubeid": "uHZulHjEhuU",
                     "uploader": "Pikmin H",
                     "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "J5HFj5oYEWk",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
                     "notes": ""
                 }

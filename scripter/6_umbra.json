@@ -1,6 +1,43 @@
 {
     "scripts": [
         {
+            "name": "Marisa",
+            "download": "http://www.bulletforge.org/u/umbra/p/marisa",
+            "releasedate": "July 2017",
+            "videos": [
+                {
+                    "youtubeid": "pY9pu_3CeZs",
+                    "uploader": "<b>Umbra</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "26pAfTCy5_A",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "marisa"
+        },
+        {
+            "name": "Midnight - Rien",
+            "download": "http://www.bulletforge.org/u/umbra/p/midnight-rien",
+            "releasedate": "July 2017",
+            "videos": [
+                {
+                    "youtubeid": "hVjqsRxWi2Q",
+                    "uploader": "<b>Umbra</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
+                    "type": "Standard",
+                    "notes": ""
+                }
+            ],
+            "divid": "rien"
+        },
+        {
             "name": "Fool's Rush - Kana",
             "download": "http://www.bulletforge.org/u/umbra/p/fools-rush-kana",
             "releasedate": "June 2017",
