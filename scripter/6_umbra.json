@@ -33,6 +33,13 @@
                     "channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
                     "type": "Standard",
                     "notes": ""
+                },
+                {
+                    "youtubeid": "5rLw3GNvcdY",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "rien"
@@ -42,6 +49,20 @@
             "download": "http://www.bulletforge.org/u/umbra/p/fools-rush-kana",
             "releasedate": "June 2017",
             "videos": [
+                {
+                    "youtubeid": "EimY0uAJuCQ",
+                    "uploader": "<b>Umbra</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "1FHymGaz2ZA",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "foolsrushkana"
         },
