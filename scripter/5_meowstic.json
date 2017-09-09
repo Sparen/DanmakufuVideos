@@ -11,6 +11,13 @@
                     "channelurl": "https://www.youtube.com/channel/UC3LiI0ABvHNXD4KEWMvw-jw",
                     "type": "Standard",
                     "notes": "Troll"
+                },
+                {  
+                    "youtubeid": "w1jKBaXsag0",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "okina"
