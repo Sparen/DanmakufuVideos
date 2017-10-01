@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "Deep Sea",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/deep-sea",
+            "releasedate": "September 2017",
+            "videos": [
+            ],
+            "divid": "megumiyaobi"
+        },
+        {
             "name": "Okina Matara Boss Battle",
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/okina-matara-boss-battle",
             "releasedate": "August 14, 2017",
