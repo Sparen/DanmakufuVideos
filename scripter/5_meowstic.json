@@ -26,6 +26,13 @@
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "kAk7FxpDALY",
+                    "uploader": "murloc4252884",
+                    "channelurl": "https://www.youtube.com/channel/UCprQmdFeNs1fudkU7ckENQQ",
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "okina"

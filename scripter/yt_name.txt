@@ -38,6 +38,9 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Misaki Rindou",
                     "channelurl": "https://www.youtube.com/channel/UCBh5Em-Fl-PKneKkkWBQ5Eg",
 
+                    "uploader": "murloc4252884",
+                    "channelurl": "https://www.youtube.com/channel/UCprQmdFeNs1fudkU7ckENQQ",
+
                     "uploader": "Ozzie840 (ExPorygon)",
                     "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
 
