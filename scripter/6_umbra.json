@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "Overly Spicy Chicken Nugget",
+            "download": "https://cdn.discordapp.com/attachments/200360165487149056/374392082137350144/Overly_Spicy_Chicken_Nugget.zip",
+            "releasedate": "Oct 29, 2017",
+            "videos": [
+            ],
+            "divid": "range18"
+        },
+        {
             "name": "Marisa",
             "download": "http://www.bulletforge.org/u/umbra/p/marisa",
             "releasedate": "July 2017",
