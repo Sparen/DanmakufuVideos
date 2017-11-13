@@ -2,13 +2,20 @@
     "scripts": [
         {
             "name": "Overly Spicy Chicken Nugget",
-            "download": "https://cdn.discordapp.com/attachments/200360165487149056/374392082137350144/Overly_Spicy_Chicken_Nugget.zip",
+            "download": "http://www.bulletforge.org/u/umbra/p/overly-spicy-chicken-nugget",
             "releasedate": "Oct 29, 2017",
             "videos": [
                 {
                     "youtubeid": "rkkNVzxsd9o",
                     "uploader": "Pikmin H",
                     "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "fhVCnH-_ouM",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Let's Play",
                     "notes": ""
                 }
