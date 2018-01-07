@@ -20,11 +20,18 @@ function setup(filepath) {
 }
 
 function parse() {
+    var tableofcontents = ""; //Table of contents
     var outputstring = ""; //concatenate the entire HTML block here
     var scripts = database_obj.scripts;
 
+    //Add initial table of contents structure
+    tableofcontents += '<div class="scriptdiv" id="toc">';
+    tableofcontents += '<h2>Table of Contents</h2>';
+    tableofcontents += '<ul>';
+
     var i; //used to iterate through scripts
     for (i = 0; i < scripts.length; i++) {
+        tableofcontents += '<li><a href="#' + scripts[i].divid + '">' + scripts[i].name + '</a></li>';
         outputstring += '<div class="scriptdiv" id="' + scripts[i].divid + '">';
         outputstring += '<h1>' + scripts[i].name + '</h1>';
         outputstring += '<p><a target="_blank" href="' + scripts[i].download + '" class="btn btn-primary" role="button">Download Link</a>&nbsp;';
@@ -50,5 +57,7 @@ function parse() {
         outputstring += '</div>';
     }
 
-    return outputstring;
+    tableofcontents += '</ul></div>';
+
+    return tableofcontents + outputstring;
 }
