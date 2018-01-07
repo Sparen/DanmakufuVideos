@@ -65,6 +65,13 @@
             "releasedate": "January 26, 2016",
             "videos": [
                 {  
+                    "youtubeid": "dpC_dKUyS7Y",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": "Hard, One miss"
+                },
+                {  
                     "youtubeid": "vJvnMOT0i7A",
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
