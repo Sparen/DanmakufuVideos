@@ -6,6 +6,13 @@
             "releasedate": "February 3, 2017",
             "videos": [
                 {
+                    "youtubeid": "kXtHW3ZgULo",
+                    "uploader": "Conarnar",
+                    "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
                     "youtubeid": "P-usYSnolYA",
                     "uploader": "Pikmin H",
                     "channelurl": "https://www.youtube.com/user/PikminH",
