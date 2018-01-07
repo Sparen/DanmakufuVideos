@@ -5,6 +5,13 @@
             "download": "http://www.bulletforge.org/u/umbra/p/overly-spicy-chicken-nugget",
             "releasedate": "Oct 29, 2017",
             "videos": [
+                {  
+                    "youtubeid": "W-17xhuoBJE",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
                 {
                     "youtubeid": "rkkNVzxsd9o",
                     "uploader": "Pikmin H",
@@ -16,13 +23,6 @@
                     "youtubeid": "fhVCnH-_ouM",
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Let's Play",
-                    "notes": ""
-                },
-                {  
-                    "youtubeid": "W-17xhuoBJE",
-                    "uploader": "ParadoxPython (Python)",
-                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
                     "notes": ""
                 }

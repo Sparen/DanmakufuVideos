@@ -72,18 +72,18 @@
                     "notes": ""
                 },
                 {
-                    "youtubeid": "fyD_HFDdsq8",
-                    "uploader": "vichycatalan",
-                    "channelurl": "https://www.youtube.com/user/vichycatalan",
-                    "type": "Standard",
-                    "notes": "v1.00a"
-                },
-                {
                     "youtubeid": "AV6WXIaSGnw",
                     "uploader": "Ephydament (Lefkada)",
                     "channelurl": "https://www.youtube.com/channel/UC1gK11EqnhBho2IcK3mEF8A",
                     "type": "Standard",
                     "notes": "Perfect"
+                },
+                {
+                    "youtubeid": "fyD_HFDdsq8",
+                    "uploader": "vichycatalan",
+                    "channelurl": "https://www.youtube.com/user/vichycatalan",
+                    "type": "Standard",
+                    "notes": "v1.00a"
                 }
             ],
             "divid": "range12"
@@ -101,18 +101,11 @@
                     "notes": ""
                 },
                 {
-                    "youtubeid": "ZjkfN0NpK0Q",
-                    "uploader": "Lunarethic",
-                    "channelurl": "https://www.youtube.com/channel/UCIsD6C7oLQKL6t1xGUtpS8g",
+                    "youtubeid": "GlsKaMLOr_w",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
                     "type": "Standard",
-                    "notes": "Semi-blind"
-                },
-                {
-                    "youtubeid": "0aU7fJKEHaQ",
-                    "uploader": "Ozzie840 (ExPorygon)",
-                    "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
-                    "type": "Let's Play",
-                    "notes": "Blind"
+                    "notes": ""
                 },
                 {
                     "youtubeid": "xz_LVyMMSUs",
@@ -122,11 +115,11 @@
                     "notes": ""
                 },
                 {
-                    "youtubeid": "GlsKaMLOr_w",
-                    "uploader": "CreepyNinja",
-                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "youtubeid": "ZjkfN0NpK0Q",
+                    "uploader": "Lunarethic",
+                    "channelurl": "https://www.youtube.com/channel/UCIsD6C7oLQKL6t1xGUtpS8g",
                     "type": "Standard",
-                    "notes": ""
+                    "notes": "Semi-blind"
                 },
                 {
                     "youtubeid": "zWPzPTChlF8",
@@ -134,6 +127,13 @@
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
                     "type": "Unvoiced Commentery",
                     "notes": ""
+                },
+                {
+                    "youtubeid": "0aU7fJKEHaQ",
+                    "uploader": "Ozzie840 (ExPorygon)",
+                    "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
+                    "type": "Let's Play",
+                    "notes": "Blind"
                 }
             ],
             "divid": "locaa6"

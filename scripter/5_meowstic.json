@@ -12,17 +12,17 @@
                     "type": "Let's Play",
                     "notes": ""
                 },
-                {
-                    "youtubeid": "rMFZIoDbKi4",
-                    "uploader": "Sparen",
-                    "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Let's Play",
-                    "notes": ""
-                },
                 {  
                     "youtubeid": "if_TgDFEa_0",
                     "uploader": "ParadoxPython (Python)",
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "rMFZIoDbKi4",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Let's Play",
                     "notes": ""
                 }
@@ -50,17 +50,17 @@
                     "notes": "Troll"
                 },
                 {  
-                    "youtubeid": "w1jKBaXsag0",
-                    "uploader": "ParadoxPython (Python)",
-                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
-                    "type": "Let's Play",
-                    "notes": ""
-                },
-                {  
                     "youtubeid": "kAk7FxpDALY",
                     "uploader": "murloc4252884",
                     "channelurl": "https://www.youtube.com/channel/UCprQmdFeNs1fudkU7ckENQQ",
                     "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "w1jKBaXsag0",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
                     "notes": ""
                 }
             ],
@@ -72,16 +72,16 @@
             "releasedate": "July 22, 2017",
             "videos": [
                 {  
-                    "youtubeid": "uHZulHjEhuU",
-                    "uploader": "Pikmin H",
-                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "youtubeid": "J5HFj5oYEWk",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
                     "notes": ""
                 },
                 {  
-                    "youtubeid": "J5HFj5oYEWk",
-                    "uploader": "ParadoxPython (Python)",
-                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "youtubeid": "uHZulHjEhuU",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
                     "type": "Let's Play",
                     "notes": ""
                 }
@@ -132,13 +132,6 @@
             "releasedate": "April 2, 2017",
             "videos": [
                 {  
-                    "youtubeid": "RkbhE1mTohs",
-                    "uploader": "Trickysticks",
-                    "channelurl": "https://www.youtube.com/user/MrTrickysticks",
-                    "type": "Standard",
-                    "notes": ""
-                },
-                {  
                     "youtubeid": "7nyJwNnCjDo",
                     "uploader": "Conarnar",
                     "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
@@ -158,6 +151,13 @@
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Let's Play",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "RkbhE1mTohs",
+                    "uploader": "Trickysticks",
+                    "channelurl": "https://www.youtube.com/user/MrTrickysticks",
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "locaa10"
@@ -168,16 +168,16 @@
             "releasedate": "February 28, 2017",
             "videos": [
                 {  
-                    "youtubeid": "uo4FJfRWHiA",
-                    "uploader": "Pikmin H",
-                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "youtubeid": "e0xNjYxiBxg",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
                     "type": "Standard",
                     "notes": ""
                 },
                 {  
-                    "youtubeid": "e0xNjYxiBxg",
-                    "uploader": "CreepyNinja",
-                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "youtubeid": "uo4FJfRWHiA",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
                     "type": "Standard",
                     "notes": ""
                 }
@@ -205,13 +205,6 @@
             "releasedate": "September 28, 2016",
             "videos": [
                 {  
-                    "youtubeid": "NZj1hEl8j6Q",
-                    "uploader": "Pikmin H",
-                    "channelurl": "https://www.youtube.com/user/PikminH",
-                    "type": "Let's Play",
-                    "notes": ""
-                },
-                {  
                     "youtubeid": "Pz6Ldu7QBNo",
                     "uploader": "CreepyNinja",
                     "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
@@ -222,6 +215,13 @@
                     "youtubeid": "qfl3VCo5AXg",
                     "uploader": "ParadoxPython (Python)",
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "NZj1hEl8j6Q",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
                     "type": "Let's Play",
                     "notes": ""
                 },
@@ -240,10 +240,10 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/locaa-8-an-unknown-white-ufo",
             "releasedate": "",
             "videos": [
-                {
-                    "youtubeid": "NXz3XibygKo",
-                    "uploader": "Sparen",
-                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                {  
+                    "youtubeid": "FR2piK-d7lU",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
                     "notes": ""
                 },
@@ -254,10 +254,10 @@
                     "type": "Let's Play",
                     "notes": ""
                 },
-                {  
-                    "youtubeid": "FR2piK-d7lU",
-                    "uploader": "ParadoxPython (Python)",
-                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                {
+                    "youtubeid": "NXz3XibygKo",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Let's Play",
                     "notes": ""
                 },
@@ -277,16 +277,16 @@
             "releasedate": "",
             "videos": [
                 {
-                    "youtubeid": "Cxa0kiaIoj4",
-                    "uploader": "Sparen",
-                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "youtubeid": "DXGF-UiNS9k",
+                    "uploader": "Ozzie840 (ExPorygon)",
+                    "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
                     "type": "Let's Play",
                     "notes": ""
                 },
                 {
-                    "youtubeid": "DXGF-UiNS9k",
-                    "uploader": "Ozzie840 (ExPorygon)",
-                    "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
+                    "youtubeid": "Cxa0kiaIoj4",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Let's Play",
                     "notes": ""
                 }
@@ -298,17 +298,17 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/locaa-7-entry-reflection-cave",
             "releasedate": "",
             "videos": [
-                {
-                    "youtubeid": "Y65atVZbZIw",
-                    "uploader": "Sparen",
-                    "channelurl": "https://www.youtube.com/user/SparenofIria",
-                    "type": "Let's Play",
-                    "notes": ""
-                },
                 {  
                     "youtubeid": "jSELwF49nLM",
                     "uploader": "Pikmin H",
                     "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "Y65atVZbZIw",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Let's Play",
                     "notes": ""
                 }
