@@ -1,0 +1,48 @@
+{
+    "scripts": [
+        {
+            "name": "Len'en Contest Entry: Blood-Stained Silver Bullet",
+            "download": "http://www.bulletforge.org/u/natashi/p/lenen-contest-entry-unreal-tale-of-a-bootleg-cupids-excessive-blood-loss",
+            "releasedate": "February 3, 2017",
+            "videos": [
+                {
+                    "youtubeid": "P-usYSnolYA",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "jVPtO97tZTY",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "lenen1"
+        },
+        {
+            "name": "LOCAA 8: Pure Eternal Flame",
+            "download": "https://www.dropbox.com/s/270ugy21u4oxurg/LOCaA8-PEF.zip?dl=0",
+            "releasedate": "June 2016",
+            "videos": [
+                {
+                    "youtubeid": "_j2uZ6FAQHY",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "jVPtO97tZTY",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "locaa8"
+        }
+    ]
+}

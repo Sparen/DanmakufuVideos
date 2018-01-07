@@ -13,7 +13,7 @@ Of course, the database is incomplete, and that's where you come in!
 * In their pages, a scripter's website/Youtube/etc. are linked - those with no other sites of interest lack the div containing the links. The div itself supports factors of 12 numbers of links - 1, 2, 3, 4, and 6, essentially (due to Bootstrap).  
 * In their pages, the body's onload() calls the json file with the same name as the scripter's page. See `sparenofiria.html` for more examples.  
 * If the scripter has a Youtube channel, in addition to the Youtube link, it is also recommended that a subscribe button be added as well. See `sparenofiria.html` for an example. If the channel has a long ID instead of a name, use `data-channelid` instead of `data-channel`.  
-* New scripter pages (html only) must be logged in the sitemap.  
+* New scripter pages (html only) must be logged in the sitemap. This is done in order of adding rather than alphabetically.  
 * Another file needs to be created in `/scripter` - the json file. Naming conventions are stated above, but for clarity, if I have sparenofiria.html, there should be a `sparenofiria.json` corresponding to it.  
 
 ## Adding to the json file/Updating a scripter's scripts and videos
@@ -36,6 +36,7 @@ In regards to the uploader's name and channel url, refer to `scripter/yt_name.tx
 ## General Notes
 * Scripts are in reverse order of release, with **newer projects at the top**. 
 * Compilation and Collaboration videos are not to be included UNLESS the collab is part of a team with multiple videos - these will be reviewed on a case-by-case basis.
+* divids associated with contests should ensure that they are using an appropriate contest tag (see `scripter/main.js`) so that the contest's information page can be automatically linked.  
 
 All pull requests will be revised.
 
