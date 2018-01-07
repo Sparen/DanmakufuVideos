@@ -79,7 +79,7 @@ function parse() {
         outputstring += '<a href="#' + scripts[i].divid + '" class="btn btn-info" role="button">Link to this Entry</a>&nbsp;';
         //If contest is in list of contests, also link to contest:
         if (contestmap.hasOwnProperty(scripts[i].divid)) {
-            outputstring += '<a href="#' + contestmap[scripts[i].divid] + '" class="btn btn-success" role="button">Contest Information</a>&nbsp;';
+            outputstring += '<a href="' + contestmap[scripts[i].divid] + '" class="btn btn-success" role="button">Contest Information</a>&nbsp;';
         }
         outputstring += '</p>';
         outputstring += '<p>Release Date: ' + scripts[i].releasedate + '</p>';
