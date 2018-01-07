@@ -76,10 +76,10 @@ function parse() {
         outputstring += '<div class="scriptdiv" id="' + scripts[i].divid + '">';
         outputstring += '<h1>' + scripts[i].name + '</h1>';
         outputstring += '<p><a target="_blank" href="' + scripts[i].download + '" class="btn btn-primary" role="button">Download Link</a>&nbsp;';
-        outputstring += '<a href="#' + scripts[i].divid + '" class="btn btn-info" role="button">Link to this Entry</a>';
+        outputstring += '<a href="#' + scripts[i].divid + '" class="btn btn-info" role="button">Link to this Entry</a>&nbsp;';
         //If contest is in list of contests, also link to contest:
         if (contestmap.hasOwnProperty(scripts[i].divid)) {
-            outputstring += '<a href="#' + contestmap[scripts[i].divid] + '" class="btn btn-success" role="button">Contest Information</a>';
+            outputstring += '<a href="#' + contestmap[scripts[i].divid] + '" class="btn btn-success" role="button">Contest Information</a>&nbsp;';
         }
         outputstring += '</p>';
         outputstring += '<p>Release Date: ' + scripts[i].releasedate + '</p>';
