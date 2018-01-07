@@ -9,12 +9,12 @@ Of course, the database is incomplete, and that's where you come in!
 
 ## Scripter Pages - Creation
 * From index.html, there is a link to each scripter page in alphabetical order of preferred nickname/handle.  
-* Each scripter has a file/page in /scripter, prefixed with a number and an underscore, followed by the name of the scripter in lowercase with no spaces. For example: 1_sparenofiria.html. These are adjusted from the template - changes are made to the title, meta description, keywords, and header, so that the scripter's name is correct.  
+* Each scripter has a file/page in `/scripter`, consisting of their name in lowercase with no spaces. For example: `sparenofiria.html`. These are adjusted from the template (see `scripter/0_template.html`) - changes are made to the title, meta description, keywords, and header, so that the scripter's name is correct.  
 * In their pages, a scripter's website/Youtube/etc. are linked - those with no other sites of interest lack the div containing the links. The div itself supports factors of 12 numbers of links - 1, 2, 3, 4, and 6, essentially (due to Bootstrap).  
-* In their pages, the body's onload() calls the json file with the same name as the scripter's page. See 1_sparenofiria.html for more examples.  
-* If the scripter has a Youtube channel, in addition to the Youtube link, it is also recommended that a subscribe button be added as well. See 1_sparenofiria.html for an example. If the channel has a long ID instead of a name, use data-channelid instead of data-channel.  
+* In their pages, the body's onload() calls the json file with the same name as the scripter's page. See `sparenofiria.html` for more examples.  
+* If the scripter has a Youtube channel, in addition to the Youtube link, it is also recommended that a subscribe button be added as well. See `sparenofiria.html` for an example. If the channel has a long ID instead of a name, use `data-channelid` instead of `data-channel`.  
 * New scripter pages (html only) must be logged in the sitemap.  
-* Another file needs to be created in /scripter - the json file. Naming conventions are stated above, but for clarity, if I have 1_sparenofiria.html, there should be a 1_sparenofiria.json corresponding to it.  
+* Another file needs to be created in `/scripter` - the json file. Naming conventions are stated above, but for clarity, if I have sparenofiria.html, there should be a `sparenofiria.json` corresponding to it.  
 
 ## Adding to the json file/Updating a scripter's scripts and videos
 For the JSON itself, see the template. The JSON object contains a field called scripts, which is an array of all of the scripts, which are all individual objects in the array. They have a name field, a download field (for the download url), a release date (if applicable), as well as a videos field. Date is <tt>Month Day, Year</tt> - ex: September 04, 2017.
@@ -27,11 +27,11 @@ The videos field is an array of objects, each with a youtube ID (when you see a 
 * **No Sound** refers to a run without any sound.  
 * **No Sound Effects** refers to a run without sound effects.  
 
-Order is the scripter first if they have uploaded videos of their own script, and then other videos in alphabetical order by video uploader's name (see the scripter/yt_name.txt document).
+Order is the scripter first if they have uploaded videos of their own script, and then other videos in alphabetical order by video uploader's name (see the `scripter/yt_name.txt` document).
 
-The divid field is used for a unique ID that will be used to link to a certain part of the html file (in this case, link to the box for a given script). Contest names are preferred if available (see 1_sparenofiria.json). This can be used to link to a certain entry from an external site (whether or not it works is a different story).  
+The divid field is used for a unique ID that will be used to link to a certain part of the html file (in this case, link to the box for a given script). Contest names are preferred if available (see `sparenofiria.json`). This can be used to link to a certain entry from an external site (whether or not it works is a different story).  
 
-In regards to the uploader's name and channel url, refer to scripter/yt_name.txt for copy-pastable data.
+In regards to the uploader's name and channel url, refer to `scripter/yt_name.txt` for copy-pastable data.
 
 ## General Notes
 * Scripts are in reverse order of release, with **newer projects at the top**. 
