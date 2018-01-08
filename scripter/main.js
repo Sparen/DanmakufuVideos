@@ -68,7 +68,8 @@ function parse() {
     //Add initial table of contents structure
     tableofcontents += '<div class="scriptdiv" id="toc">';
     tableofcontents += '<h2>Table of Contents</h2>';
-    tableofcontents += '<ul>';
+    tableofcontents += '<a class="btn btn-primary btm-sm" role="button" data-toggle="collapse" href="#toccontents" aria-expanded="true" aria-controls="toccontents">Toggle Table of Contents</a>';
+    tableofcontents += '<div class="collapse" id="toccontents"><ul>';
 
     var i; //used to iterate through scripts
     for (i = 0; i < scripts.length; i++) {
@@ -103,7 +104,7 @@ function parse() {
         outputstring += '</div>';
     }
 
-    tableofcontents += '</ul></div>';
+    tableofcontents += '</div></ul></div>';
 
     return tableofcontents + outputstring;
 }
