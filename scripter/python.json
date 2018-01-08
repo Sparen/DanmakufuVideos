@@ -138,6 +138,13 @@
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "SYHCaSAvuyE",
+                    "uploader": "TheMariomaster",
+                    "channelurl": "https://www.youtube.com/channel/UCT0GFhghOUXjJt_PLCtU36Q",
+                    "type": "Let's Play",
+                    "notes": ""
                 }
             ],
             "divid": "3dutsuho"
@@ -147,6 +154,13 @@
             "download": "http://www.bulletforge.org/u/python/p/at-the-end-of-the-shrine-road",
             "releasedate": "April 10, 2017",
             "videos": [
+                {  
+                    "youtubeid": "EttJY675QFQ",
+                    "uploader": "DANMAKUFU GOD",
+                    "channelurl": "https://www.youtube.com/channel/UCgWfyABv8dQraFlKNVh5Y2A",
+                    "type": "Standard",
+                    "notes": ""
+                },
                 {  
                     "youtubeid": "2d09kLlBqQY",
                     "uploader": "Junkyx1122",
@@ -162,6 +176,27 @@
             "download": "http://www.bulletforge.org/u/python/p/i-have-contest-entry-locaa-10-entry",
             "releasedate": "March 19, 2017",
             "videos": [
+                {  
+                    "youtubeid": "06rvbYHmxWg",
+                    "uploader": "Conarnar",
+                    "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "AzgpvM0-XDU",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "mMgmS-wIBQc",
+                    "uploader": "Trickysticks",
+                    "channelurl": "https://www.youtube.com/user/MrTrickysticks",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "locaa10"
         },
@@ -170,6 +205,13 @@
             "download": "http://www.bulletforge.org/u/python/p/a-fancy-package-thing-mitori",
             "releasedate": "February 19, 2017",
             "videos": [
+                {  
+                    "youtubeid": "758wlT46xSQ",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
             ],
             "divid": "mitoripkg"
         },
@@ -178,6 +220,27 @@
             "download": "http://www.bulletforge.org/u/python/p/spooky-lenen-skeletons",
             "releasedate": "October 29, 2016",
             "videos": [
+                {  
+                    "youtubeid": "F-lQMKGf0l8",
+                    "uploader": "Conarnar",
+                    "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "mDBan3iYNxU",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "SsRh7N1OwGg",
+                    "uploader": "Pruns",
+                    "channelurl": "https://www.youtube.com/channel/UCTPlfkRQoFmvw5FHszZ7rlg",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "sese"
         },
@@ -210,9 +273,23 @@
             "releasedate": "May 24, 2016",
             "videos": [
                 {  
+                    "youtubeid": "pEEcEfuoyOM",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "bul7ESvGlyk",
                     "uploader": "Pruns",
                     "channelurl": "https://www.youtube.com/channel/UCTPlfkRQoFmvw5FHszZ7rlg",
+                    "type": "Standard",
+                    "notes": "Perfect (NMNB)"
+                },
+                {  
+                    "youtubeid": "Gxs6RfORNOA",
+                    "uploader": "That Terrible Bullet Dodger (TTBD)",
+                    "channelurl": "https://www.youtube.com/channel/UCQLkEFe2-92NsrFpA4Gjzlg",
                     "type": "Standard",
                     "notes": "Perfect (NMNB)"
                 }
@@ -224,6 +301,13 @@
             "download": "http://www.bulletforge.org/u/python/p/dforce-master-locaa-7-entry-by-python",
             "releasedate": "April 02, 2016",
             "videos": [
+                {  
+                    "youtubeid": "rmq88wRNOVI",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "locaa7"
         },
@@ -311,6 +395,13 @@
                     "type": "Standard",
                     "notes": "Perfect (NMNB)"
                 },
+                {  
+                    "youtubeid": "0VQm9viNhcc",
+                    "uploader": "Kira - Games&Stuff",
+                    "channelurl": "https://www.youtube.com/channel/UCM-QKsSyg798RP_zbjKuiig",
+                    "type": "Standard",
+                    "notes": ""
+                },
                 {
                     "youtubeid": "ey72N5L6eOo",
                     "uploader": "Sparen",
@@ -331,6 +422,13 @@
                     "uploader": "Conarnar",
                     "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
                     "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "8IJQfIBs7bc",
+                    "uploader": "Kira - Games&Stuff",
+                    "channelurl": "https://www.youtube.com/channel/UCM-QKsSyg798RP_zbjKuiig",
+                    "type": "Standard",
                     "notes": ""
                 },
                 {  
@@ -355,6 +453,13 @@
             "download": "http://www.bulletforge.org/u/python/p/yuuka-kazami-by-python",
             "releasedate": "June 02, 2015",
             "videos": [
+                {  
+                    "youtubeid": "b4bIRIqpmew",
+                    "uploader": "Eternity Larva",
+                    "channelurl": "https://www.youtube.com/channel/UC8LE7_f3BfvT4l3BCudV_4w",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "yuuka"
         },

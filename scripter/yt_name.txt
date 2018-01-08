@@ -8,6 +8,9 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "CreepyNinja",
                     "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
 
+                    "uploader": "DANMAKUFU GOD",
+                    "channelurl": "https://www.youtube.com/channel/UCgWfyABv8dQraFlKNVh5Y2A",
+
                     "uploader": "DryTheMeowstic",
                     "channelurl": "https://www.youtube.com/channel/UC3LiI0ABvHNXD4KEWMvw-jw",
 
@@ -64,6 +67,12 @@ So that we have a consistent uploader naming convention across the entire databa
 
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
+
+                    "uploader": "That Terrible Bullet Dodger (TTBD)",
+                    "channelurl": "https://www.youtube.com/channel/UCQLkEFe2-92NsrFpA4Gjzlg",
+
+                    "uploader": "TheMariomaster",
+                    "channelurl": "https://www.youtube.com/channel/UCT0GFhghOUXjJt_PLCtU36Q",
 
                     "uploader": "Trickysticks",
                     "channelurl": "https://www.youtube.com/user/MrTrickysticks",
