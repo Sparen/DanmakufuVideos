@@ -117,6 +117,13 @@
             "download": "http://www.bulletforge.org/u/python/p/nemuno-sakata",
             "releasedate": "May 30, 2017",
             "videos": [
+                {
+                    "youtubeid": "qbXMfXz_2rk",
+                    "uploader": "Trickysticks",
+                    "channelurl": "https://www.youtube.com/user/MrTrickysticks",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "nemuno"
         },
@@ -140,6 +147,13 @@
             "download": "http://www.bulletforge.org/u/python/p/at-the-end-of-the-shrine-road",
             "releasedate": "April 10, 2017",
             "videos": [
+                {  
+                    "youtubeid": "2d09kLlBqQY",
+                    "uploader": "Junkyx1122",
+                    "channelurl": "https://www.youtube.com/channel/UCoz5ZOQGyObD_ZSMvQ8br5Q",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "tenkai"
         },
@@ -195,6 +209,13 @@
             "download": "http://www.bulletforge.org/u/python/p/loafing-monochrome",
             "releasedate": "May 24, 2016",
             "videos": [
+                {  
+                    "youtubeid": "bul7ESvGlyk",
+                    "uploader": "Pruns",
+                    "channelurl": "https://www.youtube.com/channel/UCTPlfkRQoFmvw5FHszZ7rlg",
+                    "type": "Standard",
+                    "notes": "Perfect (NMNB)"
+                }
             ],
             "divid": "tsubakura"
         },
@@ -211,6 +232,41 @@
             "download": "http://www.bulletforge.org/u/python/p/little-mermaid-range-16-entry-by-python",
             "releasedate": "January 27, 2016",
             "videos": [
+                {  
+                    "youtubeid": "V5BAHTLJuJI",
+                    "uploader": "Kira - Games&Stuff",
+                    "channelurl": "https://www.youtube.com/channel/UCM-QKsSyg798RP_zbjKuiig",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "AOvLVsFW6Rw",
+                    "uploader": "Lunarethic",
+                    "channelurl": "https://www.youtube.com/channel/UCIsD6C7oLQKL6t1xGUtpS8g",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "gSd-Jp7a574",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "VUR9mOoPJ9E",
+                    "uploader": "Pruns",
+                    "channelurl": "https://www.youtube.com/channel/UCTPlfkRQoFmvw5FHszZ7rlg",
+                    "type": "Standard",
+                    "notes": "No Deaths"
+                },
+                {
+                    "youtubeid": "bcwd6y4-eGo",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "range16"
         },
@@ -248,6 +304,20 @@
             "download": "http://www.bulletforge.org/u/python/p/the-piece-of-junk-and-the-ball-addict-junko-hecatia",
             "releasedate": "September 07, 2015",
             "videos": [
+                {  
+                    "youtubeid": "rZ2ZzFniuzI",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": "Perfect (NMNB)"
+                },
+                {
+                    "youtubeid": "ey72N5L6eOo",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "junkohecatia"
         },

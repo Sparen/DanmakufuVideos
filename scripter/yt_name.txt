@@ -20,8 +20,14 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Gizmo the Dragon",
                     "channelurl": "https://www.youtube.com/channel/UCZ5215lQMfNIRLN3es-XTEg",
 
+                    "uploader": "Junkyx1122",
+                    "channelurl": "https://www.youtube.com/channel/UCoz5ZOQGyObD_ZSMvQ8br5Q",
+
                     "uploader": "Kendall Rust",
                     "channelurl": "https://www.youtube.com/channel/UCn43qiHBQ-A1rkNgPstUskw",
+
+                    "uploader": "Kira - Games&Stuff",
+                    "channelurl": "https://www.youtube.com/channel/UCM-QKsSyg798RP_zbjKuiig",
 
                     "uploader": "Kirakishou7",
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
