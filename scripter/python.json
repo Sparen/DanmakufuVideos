@@ -21,6 +21,13 @@
             "download": "http://www.bulletforge.org/u/python/p/hidden-star-in-four-doors",
             "releasedate": "August 17, 2017",
             "videos": [
+                {  
+                    "youtubeid": "HeK0SouvJvE",
+                    "uploader": "<b>ParadoxPython (Python)</b>",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "okina"
         },
@@ -29,6 +36,13 @@
             "download": "http://www.bulletforge.org/u/python/p/its-shoutime-range-17-entry",
             "releasedate": "July 16, 2017",
             "videos": [
+                {  
+                    "youtubeid": "cSL82mM2wNk",
+                    "uploader": "<b>ParadoxPython (Python)</b>",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "range17"
         },
@@ -69,6 +83,13 @@
             "download": "http://www.bulletforge.org/u/python/p/three-dee-utsuho",
             "releasedate": "April 20, 2017",
             "videos": [
+                {  
+                    "youtubeid": "kh-Ih-LYOm0",
+                    "uploader": "<b>ParadoxPython (Python)</b>",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "3dutsuho"
         },
@@ -117,6 +138,13 @@
             "download": "http://www.bulletforge.org/u/python/p/purified-taiko-drum-locaa-8-entry",
             "releasedate": "July 02, 2016",
             "videos": [
+                {  
+                    "youtubeid": "5fFd1FI7OmU",
+                    "uploader": "<b>ParadoxPython (Python)</b>",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "locaa8"
         },
@@ -181,6 +209,20 @@
             "download": "http://www.bulletforge.org/u/python/p/ancient-forgotten-monster-evil-eyes",
             "releasedate": "March 17, 2015",
             "videos": [
+                {  
+                    "youtubeid": "EcPbzQKDecQ",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "gwc_5xSn9Cs",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "yuugenmagan"
         },
@@ -189,6 +231,27 @@
             "download": "http://www.bulletforge.org/u/python/p/artifact-iii-ran-yakumo",
             "releasedate": "January 16, 2015",
             "videos": [
+                {  
+                    "youtubeid": "xdwRDS5kP5s",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "H0_pC4Mj_yU",
+                    "uploader": "Miransu Uwabami",
+                    "channelurl": "https://www.youtube.com/channel/UCse1W7tEW16t7qwkn6APBhQ",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "0J4j2k_y65M",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "artifact3"
         }
