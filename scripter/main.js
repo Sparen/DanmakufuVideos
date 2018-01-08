@@ -70,7 +70,7 @@ function parse() {
     tableofcontents += '<h2>Script Listing</h2>';
     tableofcontents += "<p>Quickly jump to the script you'd like to see videos for~</p>";
     tableofcontents += '<a class="btn btn-primary btn-sm" role="button" data-toggle="collapse" href="#toccontents" aria-expanded="false" aria-controls="toccontents">Toggle Script Listing</a>';
-    tableofcontents += '<div class="collapse.in" id="toccontents"><br><ul>';
+    tableofcontents += '<div class="collapse in" id="toccontents"><br><ul>';
 
     var i; //used to iterate through scripts
     for (i = 0; i < scripts.length; i++) {
