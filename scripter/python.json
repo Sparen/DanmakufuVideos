@@ -13,6 +13,20 @@
             "download": "http://www.bulletforge.org/u/python/p/flesh-and-stone",
             "releasedate": "September 02, 2017",
             "videos": [
+                {  
+                    "youtubeid": "WR1Z1_4r7Lw",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "qQBcZ4zcHyY",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "narumi"
         },
@@ -26,6 +40,13 @@
                     "uploader": "<b>ParadoxPython (Python)</b>",
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "XcVMUOEo6Yg",
+                    "uploader": "Eternity Larva",
+                    "channelurl": "https://www.youtube.com/channel/UC8LE7_f3BfvT4l3BCudV_4w",
+                    "type": "Standard",
                     "notes": ""
                 }
             ],
@@ -67,6 +88,27 @@
             "download": "http://www.bulletforge.org/u/python/p/etarnity-larva",
             "releasedate": "May 31, 2017",
             "videos": [
+                {  
+                    "youtubeid": "PvoN9aG3eWU",
+                    "uploader": "Eternity Larva",
+                    "channelurl": "https://www.youtube.com/channel/UC8LE7_f3BfvT4l3BCudV_4w",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "52oxeb6Lqs0",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "NsiEq_D6GTc",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "etarnity"
         },
@@ -177,6 +219,27 @@
             "download": "http://www.bulletforge.org/u/python/p/ulil-inspired-kasen-script",
             "releasedate": "October 03, 2015",
             "videos": [
+                {  
+                    "youtubeid": "tILxYPeRFGs",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "IDQeDm0zOsg",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "314GmcSdxE4",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "kasen"
         },
@@ -193,6 +256,27 @@
             "download": "http://www.bulletforge.org/u/python/p/human-inferno-range-14-entry-by-python",
             "releasedate": "July 19, 2015",
             "videos": [
+                {  
+                    "youtubeid": "OY8T8MNNMnw",
+                    "uploader": "Conarnar",
+                    "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "GCw8hpBNxIA",
+                    "uploader": "Kirakishou7",
+                    "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "cPbwLy1sypg",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "range14"
         },

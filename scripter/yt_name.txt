@@ -14,6 +14,9 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Ephydament (Lefkada)",
                     "channelurl": "https://www.youtube.com/channel/UC1gK11EqnhBho2IcK3mEF8A",
 
+                    "uploader": "Eternity Larva",
+                    "channelurl": "https://www.youtube.com/channel/UC8LE7_f3BfvT4l3BCudV_4w",
+
                     "uploader": "Gizmo the Dragon",
                     "channelurl": "https://www.youtube.com/channel/UCZ5215lQMfNIRLN3es-XTEg",
 
