@@ -2,6 +2,9 @@ yt_name standards
 
 So that we have a consistent uploader naming convention across the entire database.
 
+                    "uploader": "Ancient Meme",
+                    "channelurl": "https://www.youtube.com/channel/UCI1OdTjlrjDjI9-E2UBq2JA",
+
                     "uploader": "Conarnar",
                     "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
 
@@ -82,3 +85,6 @@ So that we have a consistent uploader naming convention across the entire databa
 
                     "uploader": "vichycatalan",
                     "channelurl": "https://www.youtube.com/user/vichycatalan",
+
+                    "uploader": "WizardIF",
+                    "channelurl": "https://www.youtube.com/channel/UC0txQlngIrHtYi7gFCq8pdg",
