@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "AoCF - Reimu and Yukari",
+            "download": "http://www.bulletforge.org/u/umbra/p/aocf-reimu-and-yukari",
+            "releasedate": "January 08, 2018",
+            "videos": [
+            ],
+            "divid": "aocfreimuyukari"
+        },
+        {
             "name": "Overly Spicy Chicken Nugget",
             "download": "http://www.bulletforge.org/u/umbra/p/overly-spicy-chicken-nugget",
             "releasedate": "Oct 29, 2017",
