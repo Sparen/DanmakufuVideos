@@ -67,8 +67,9 @@ function parse() {
 
     //Add initial table of contents structure
     tableofcontents += '<div class="scriptdiv" id="toc">';
-    tableofcontents += '<h2>Table of Contents</h2>';
-    tableofcontents += '<a class="btn btn-primary btn-sm" role="button" data-toggle="collapse.in" href="#toccontents" aria-expanded="true" aria-controls="toccontents">Toggle Table of Contents</a>';
+    tableofcontents += '<h2>Script Listing</h2>';
+    tableofcontents += "<p>Quickly jump to the script you'd like to see videos for~</p>";
+    tableofcontents += '<a class="btn btn-primary btn-sm" role="button" data-toggle="collapse.in" href="#toccontents" aria-expanded="true" aria-controls="toccontents">Toggle Script Listing</a>';
     tableofcontents += '<div class="collapse" id="toccontents"><br><ul>';
 
     var i; //used to iterate through scripts
