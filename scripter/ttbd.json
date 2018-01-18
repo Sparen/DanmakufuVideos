@@ -13,6 +13,20 @@
             "download": "http://www.bulletforge.org/u/auto2112/p/lian-yuan-wei-ji-unaltered-existence",
             "releasedate": "December 24, 2017",
             "videos": [
+                {
+                    "youtubeid": "6K6S6SCftwQ",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "bsm0KhDVhP8",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "suzumi"
         },
