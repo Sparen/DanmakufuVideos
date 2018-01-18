@@ -1,0 +1,167 @@
+{
+    "scripts": [
+        {
+            "name": "Opposite-thinking Trickster",
+            "download": "http://www.bulletforge.org/u/auto2112/p/opposite-thinking-trickster",
+            "releasedate": "January 16, 2018",
+            "videos": [
+            ],
+            "divid": "seija"
+        },
+        {
+            "name": "連縁偽記 ～ Unaltered Existence",
+            "download": "http://www.bulletforge.org/u/auto2112/p/lian-yuan-wei-ji-unaltered-existence",
+            "releasedate": "December 24, 2017",
+            "videos": [
+            ],
+            "divid": "suzumi"
+        },
+        {
+            "name": "The Eternal Annoyance ~ A Birthday Star",
+            "download": "http://www.bulletforge.org/u/auto2112/p/the-eternal-annoyance-a-birthday-star",
+            "releasedate": "October 17, 2017",
+            "videos": [
+                {
+                    "youtubeid": "YFXTitB4blo",
+                    "uploader": "Ali-Iva",
+                    "channelurl": "https://www.youtube.com/channel/UCrIanO2gT458AIu7QE2CPLw",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "MENUMD8NFG4",
+                    "uploader": "DANMAKUFU GOD",
+                    "channelurl": "https://www.youtube.com/channel/UCgWfyABv8dQraFlKNVh5Y2A",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "muAgkFeR4WY",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "clause"
+        },
+        {
+            "name": "LoCAA 10 ~ The Grandest Requiem",
+            "download": "http://www.bulletforge.org/u/auto2112/p/locaa-10-the-grandest-requiem",
+            "releasedate": "April 01, 2017",
+            "videos": [
+                {
+                    "youtubeid": "IL0mSLCOtE",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": "Perfect "
+                },
+                {
+                    "youtubeid": "YLxtTeJO12U",
+                    "uploader": "MegamanOmega184",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "oddXooUcj3k",
+                    "uploader": "Freddy Bad add",
+                    "channelurl": "https://www.youtube.com/channel/UCM9ewXEEHWkWwXsW_reC7mg",
+                    "type": "Standard",
+                    "notes": ""
+                }
+            ],
+            "divid": "locaa10"
+        },
+        {
+            "name": "Mitori Kawashiro (Remake)",
+            "download": "http://www.bulletforge.org/u/auto2112/p/mitori-kawashiro-remake",
+            "releasedate": "November 15, 2016",
+            "videos": [
+                {
+                    "youtubeid": "ASxldmoYddw",
+                    "uploader": "<b>The Terrible Bullet Dodger (TTBD)</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCfv9NiHc_7xk35aciflxGSw",
+                    "type": "Standard",
+                    "notes": "Part 1"
+                },
+                {
+                    "youtubeid": "ykEyTpZZRss",
+                    "uploader": "<b>The Terrible Bullet Dodger (TTBD)</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCfv9NiHc_7xk35aciflxGSw",
+                    "type": "Standard",
+                    "notes": "Part 2"
+                }
+            ],
+            "divid": "mitorikawashiro"
+        },
+        {
+            "name": "Spooky Hecatia Fight",
+            "download": "http://www.bulletforge.org/u/auto2112/p/spooky-hecatia-fight",
+            "releasedate": "October 31, 2016",
+            "videos": [
+                {
+                    "youtubeid": "4KAAvdJi80Q",
+                    "uploader": "<b>The Terrible Bullet Dodger (TTBD)</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCfv9NiHc_7xk35aciflxGSw",
+                    "type": "Standard",
+                    "notes": ""
+                }
+            ],
+            "divid": "hecatia"
+        },
+        {
+            "name": "Sakuya Fight",
+            "download": "http://www.bulletforge.org/u/auto2112/p/sakuya-fight",
+            "releasedate": "October 16, 2016",
+            "videos": [
+                {
+                    "youtubeid": "zsyNr5Q5wsg",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "sakuya"
+        },
+        {
+            "name": "RaNGE 15 - Border of Phantasm",
+            "download": "http://www.bulletforge.org/u/auto2112/p/range-15-border-of-phantasm",
+            "releasedate": "October 28, 2015",
+            "videos": [
+                {
+                    "youtubeid": "Iuh7IDeQa10",
+                    "uploader": "<b>The Terrible Bullet Dodger (TTBD)</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCfv9NiHc_7xk35aciflxGSw",
+                    "type": "Standard",
+                    "notes": ""
+                }
+            ],
+            "divid": "range15"
+        },
+        {
+            "name": "RaNGE 14 - Youkai of The Dusk",
+            "download": "http://www.bulletforge.org/u/auto2112/p/range-14-entry-youkai-of-the-dusk",
+            "releasedate": "July 22, 2015",
+            "videos": [
+                {
+                    "youtubeid": "mgrdiCnTu60",
+                    "uploader": "<b>The Terrible Bullet Dodger (TTBD)</b>",
+                    "channelurl": "https://www.youtube.com/channel/UCfv9NiHc_7xk35aciflxGSw",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "2Fg6p6-K41g",
+                    "uploader": "Conarnar",
+                    "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "range14"
+        }
+    ]
+}

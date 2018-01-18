@@ -2,6 +2,9 @@ yt_name standards
 
 So that we have a consistent uploader naming convention across the entire database.
 
+                    "uploader": "Ali-Iva",
+                    "channelurl": "https://www.youtube.com/channel/UCrIanO2gT458AIu7QE2CPLw",
+
                     "uploader": "Ancient Meme",
                     "channelurl": "https://www.youtube.com/channel/UCI1OdTjlrjDjI9-E2UBq2JA",
 
@@ -22,6 +25,9 @@ So that we have a consistent uploader naming convention across the entire databa
 
                     "uploader": "Eternity Larva",
                     "channelurl": "https://www.youtube.com/channel/UC8LE7_f3BfvT4l3BCudV_4w",
+
+                    "uploader": "Freddy Bad add",
+                    "channelurl": "https://www.youtube.com/channel/UCM9ewXEEHWkWwXsW_reC7mg",
 
                     "uploader": "Gizmo the Dragon",
                     "channelurl": "https://www.youtube.com/channel/UCZ5215lQMfNIRLN3es-XTEg",
@@ -71,8 +77,11 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
 
-                    "uploader": "That Terrible Bullet Dodger (TTBD)",
+                    "uploader": "That Bullet Dodger",
                     "channelurl": "https://www.youtube.com/channel/UCQLkEFe2-92NsrFpA4Gjzlg",
+
+                    "uploader": "The Terrible Bullet Dodger (TTBD)",
+                    "channelurl": "https://www.youtube.com/channel/UCfv9NiHc_7xk35aciflxGSw",
 
                     "uploader": "TheMariomaster",
                     "channelurl": "https://www.youtube.com/channel/UCT0GFhghOUXjJt_PLCtU36Q",
