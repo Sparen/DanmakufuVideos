@@ -6,6 +6,13 @@
             "releasedate": "January 16, 2018",
             "videos": [
                 {
+                    "youtubeid": "MhGDJ3FWQCY",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
                     "youtubeid": "0GiWP07Kpzo",
                     "uploader": "Pikmin H",
                     "channelurl": "https://www.youtube.com/user/PikminH",

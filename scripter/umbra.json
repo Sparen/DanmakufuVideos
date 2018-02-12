@@ -5,6 +5,13 @@
             "download": "http://www.bulletforge.org/u/umbra/p/aocf-reimu-and-yukari",
             "releasedate": "January 08, 2018",
             "videos": [
+                {  
+                    "youtubeid": "UzbflNvWmas",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
             ],
             "divid": "aocfreimuyukari"
         },
