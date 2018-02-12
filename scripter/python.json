@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "Sumireko & Doremy: Dream Team - LOCAA 11 Entry",
+            "download": "http://www.bulletforge.org/u/python/p/sumireko-doremy-dream-team-locaa-11-entry",
+            "releasedate": "February 12, 2018",
+            "videos": [
+            ],
+            "divid": "locaa11"
+        },
+        {
             "name": "RMI - Suzumi's Alternate Stage 4 Boss",
             "download": "http://www.bulletforge.org/u/python/p/rmi-suzumis-alternate-stage-4-boss",
             "releasedate": "October 25, 2017",
