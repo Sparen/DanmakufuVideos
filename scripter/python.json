@@ -337,6 +337,13 @@
             "releasedate": "May 24, 2016",
             "videos": [
                 {  
+                    "youtubeid": "-wKe-Ez7QB4",
+                    "uploader": "MegamanOmega184",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+                    "type": "Unvoiced Commentery",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "pEEcEfuoyOM",
                     "uploader": "Pikmin H",
                     "channelurl": "https://www.youtube.com/user/PikminH",
