@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "A Legacy of Malice",
+            "download": "http://www.bulletforge.org/u/tressert/p/perfect-possession-a-legacy-of-malice",
+            "releasedate": "February 19, 2018",
+            "videos": [
+            ],
+            "divid": "locaa11"
+        },
+        {
             "name": "Danmakufu Wars ~ Hata no Kokoro (Tres vs Sphe)",
             "download": "http://www.bulletforge.org/u/tressert/p/danmakufu-wars-hata-no-kokoro-tres-vs-sphe",
             "releasedate": "",

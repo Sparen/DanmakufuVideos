@@ -36,6 +36,7 @@ var contestmap = {
     "locaa9" : "https://docs.google.com/document/d/17Yrt9Pbm2UFlXzZ3qo5qxVXapjC5vVJrwi5f6VRKaiA",
     "lenen1" : "https://docs.google.com/document/d/1bgTU78UCv_P0n7512AZWb3hzDKS52gEErpXpw0wi18Y",
     "locaa10" : "https://docs.google.com/document/d/1gUb_us2bECLwnypxyKXNyQFqiQLga5N47nRbJAC9nOQ",
+    "locaa11" : "https://docs.google.com/document/d/1SU8nKPbk1ZlUUOeKomsa0XcpC1Bw5TpcxIWNaGg4x3c",
     "artifact1" : "https://www.shrinemaiden.org/forum/index.php/topic,16046.0.html",
     "artifact2" : "http://sparen.github.io/projects/contest/contestlocalbackup.html#subARTIFACT_2",
     "artifact3" : "http://pastebin.com/meD0BQdZd"
