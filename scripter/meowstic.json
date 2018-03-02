@@ -284,6 +284,13 @@
             "releasedate": "",
             "videos": [
                 {
+                    "youtubeid": "4AZChrAuxdo",
+                    "uploader": "MegamanOmega184",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
+                },
+                {
                     "youtubeid": "DXGF-UiNS9k",
                     "uploader": "Ozzie840 (ExPorygon)",
                     "channelurl": "https://www.youtube.com/channel/UCwKCUUUV5Ppf_8sEHJXnLDw",
