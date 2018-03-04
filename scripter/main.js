@@ -5,41 +5,41 @@ var database_obj;
 //Map of contest IDs (used in divid field) to website for contest
 //All links are from http://sparen.github.io/projects/contestdatabase.html - Official Thread/equivalent link
 var contestmap = {
-    "range1" : "https://www.shrinemaiden.org/forum/index.php/topic,3276.0.html",
-    "range2" : "https://www.shrinemaiden.org/forum/index.php/topic,3665.0.html",
-    "range3" : "https://www.shrinemaiden.org/forum/index.php/topic,4630.0.html",
-    "range4" : "https://www.shrinemaiden.org/forum/index.php/topic,5038.0.html",
-    "range5" : "https://www.shrinemaiden.org/forum/index.php/topic,5322.0.html",
-    "range6" : "https://www.shrinemaiden.org/forum/index.php/topic,6456.0.html",
-    "range7" : "https://www.shrinemaiden.org/forum/index.php/topic,7359.0.html",
-    "range8" : "https://www.shrinemaiden.org/forum/index.php/topic,8772.0.html",
-    "range9" : "https://www.shrinemaiden.org/forum/index.php/topic,10426.0.html",
-    "range10" : "https://www.shrinemaiden.org/forum/index.php/topic,15432.0.html",
-    "range10.5" : "https://www.shrinemaiden.org/forum/index.php/topic,15734.0.html",
-    "range11" : "https://www.shrinemaiden.org/forum/index.php/topic,16636.0.html",
-    "range12" : "https://www.shrinemaiden.org/forum/index.php/topic,17453.0.html",
-    "range13" : "https://www.shrinemaiden.org/forum/index.php/topic,17893.0.html",
-    "range14" : "https://www.shrinemaiden.org/forum/index.php/topic,18639.0.html",
-    "range15" : "https://www.shrinemaiden.org/forum/index.php/topic,18947.0.html",
-    "range16" : "https://www.shrinemaiden.org/forum/index.php/topic,19158.0.html",
-    "range17" : "https://www.shrinemaiden.org/forum/index.php/topic,20892.0.html",
-    "range18" : "https://www.shrinemaiden.org/forum/index.php/topic,21068.0.html",
-    "locaa1" : "http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_1",
-    "locaa2" : "http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_2",
-    "locaa3" : "http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_3",
-    "curse1" : "http://sparen.github.io/projects/contest/contestlocalbackup.html#subCURSE_1",
-    "locaa4" : "http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_4",
-    "locaa5" : "http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_5",
-    "locaa6" : "",
-    "locaa7" : "https://docs.google.com/document/d/1hW-v_sm33ctFA0vuErETm4xqg9Q6zk1FHsqyChw-yf0",
-    "locaa8" : "https://docs.google.com/document/d/1gzafv0mX6FhoofjrUAeCi8a-TMeYF8YILCzMlpkYKLQ",
-    "locaa9" : "https://docs.google.com/document/d/17Yrt9Pbm2UFlXzZ3qo5qxVXapjC5vVJrwi5f6VRKaiA",
-    "lenen1" : "https://docs.google.com/document/d/1bgTU78UCv_P0n7512AZWb3hzDKS52gEErpXpw0wi18Y",
-    "locaa10" : "https://docs.google.com/document/d/1gUb_us2bECLwnypxyKXNyQFqiQLga5N47nRbJAC9nOQ",
-    "locaa11" : "https://docs.google.com/document/d/1SU8nKPbk1ZlUUOeKomsa0XcpC1Bw5TpcxIWNaGg4x3c",
-    "artifact1" : "https://www.shrinemaiden.org/forum/index.php/topic,16046.0.html",
-    "artifact2" : "http://sparen.github.io/projects/contest/contestlocalbackup.html#subARTIFACT_2",
-    "artifact3" : "http://pastebin.com/meD0BQdZd"
+    "range1" : ["https://www.shrinemaiden.org/forum/index.php/topic,3276.0.html", "Danmakufu Contest 1 - Halloween"],
+    "range2" : ["https://www.shrinemaiden.org/forum/index.php/topic,3665.0.html", "Danmakufu Contest 2 - Dead Simple"],
+    "range3" : ["https://www.shrinemaiden.org/forum/index.php/topic,4630.0.html", "Danmakufu Contest 3 - Survival Card"],
+    "range4" : ["https://www.shrinemaiden.org/forum/index.php/topic,5038.0.html", "Danmakufu Contest 4 - Laser Light Show"],
+    "range5" : ["https://www.shrinemaiden.org/forum/index.php/topic,5322.0.html", "Danmakufu Contest 5 - Who are these people?"],
+    "range6" : ["https://www.shrinemaiden.org/forum/index.php/topic,6456.0.html", "Danmakufu Contest 6 - Blinded by the Light!"],
+    "range7" : ["https://www.shrinemaiden.org/forum/index.php/topic,7359.0.html", "Danmakufu Contest 7 - All Hallow's Even 2!"],
+    "range8" : ["https://www.shrinemaiden.org/forum/index.php/topic,8772.0.html", "Danmakufu Contest 8 - This Ain't Space Invaders!"],
+    "range9" : ["https://www.shrinemaiden.org/forum/index.php/topic,10426.0.html", "Danmakufu Contest 9 - Perfect Memento in Self-insert Sense"],
+    "range10" : ["https://www.shrinemaiden.org/forum/index.php/topic,15432.0.html", "RaNGE 10 - Youkai Exterminator Extermination!"],
+    "range10.5" : ["https://www.shrinemaiden.org/forum/index.php/topic,15734.0.html", "Halloween Contest! (2013)"],
+    "range11" : ["https://www.shrinemaiden.org/forum/index.php/topic,16636.0.html", "RaNGE 11 - Apprehensive Adherent Abasement!"],
+    "range12" : ["https://www.shrinemaiden.org/forum/index.php/topic,17453.0.html", "RaNGE 12 - Incident Causer Mayhem!"],
+    "range13" : ["https://www.shrinemaiden.org/forum/index.php/topic,17893.0.html", "RaNGE 13 - Contradictory Catastrophe!"],
+    "range14" : ["https://www.shrinemaiden.org/forum/index.php/topic,18639.0.html", "RaNGE 14 - Popular Popularity!"],
+    "range15" : ["https://www.shrinemaiden.org/forum/index.php/topic,18947.0.html", "RaNGE 15 - Trick or Shoot!"],
+    "range16" : ["https://www.shrinemaiden.org/forum/index.php/topic,19158.0.html", "RaNGE 16 - Unexpected Master Mind"],
+    "range17" : ["https://www.shrinemaiden.org/forum/index.php/topic,20892.0.html", "RaNGE 17 - Laser Light Show Redux!"],
+    "range18" : ["https://www.shrinemaiden.org/forum/index.php/topic,21068.0.html", "RaNGE 18 - Extra Love"],
+    "locaa1" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_1", "Borderlands Contest 1"],
+    "locaa2" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_2", "Borderlands Contest 2"],
+    "locaa3" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_3", "LOCAA 3"],
+    "curse1" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subCURSE_1", "CURSE01 - Overused All-Stars"],
+    "locaa4" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_4", "LOCAA 4 - Unlikely Pairs"],
+    "locaa5" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_5", "LOCAA 5 - Fury of the Rivals"],
+    "locaa6" : ["", "LOCAA 6 - Troll Scripts"],
+    "locaa7" : ["https://docs.google.com/document/d/1hW-v_sm33ctFA0vuErETm4xqg9Q6zk1FHsqyChw-yf0", "LOCAA 7 - Outsider Occupation!"],
+    "locaa8" : ["https://docs.google.com/document/d/1gzafv0mX6FhoofjrUAeCi8a-TMeYF8YILCzMlpkYKLQ", "LOCAA 8 - Pure Gensokyo!"],
+    "locaa9" : ["https://docs.google.com/document/d/17Yrt9Pbm2UFlXzZ3qo5qxVXapjC5vVJrwi5f6VRKaiA", "LOCAA 9 - Miracle Mallet Contest"],
+    "lenen1" : ["https://docs.google.com/document/d/1bgTU78UCv_P0n7512AZWb3hzDKS52gEErpXpw0wi18Y", "Len'en Contest 01: Kill Two Birds With One Stone"],
+    "locaa10" : ["https://docs.google.com/document/d/1gUb_us2bECLwnypxyKXNyQFqiQLga5N47nRbJAC9nOQ", "LOCAA 10 - Insider Obfuscation!"],
+    "locaa11" : ["https://docs.google.com/document/d/1SU8nKPbk1ZlUUOeKomsa0XcpC1Bw5TpcxIWNaGg4x3c", "LOCAA 11 - Perfect Possession Incident"],
+    "artifact1" : ["https://www.shrinemaiden.org/forum/index.php/topic,16046.0.html", "Artifact Contest 1: The Pagoda of Bishamonten"],
+    "artifact2" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subARTIFACT_2", "Artifact Contest 2: Augmented Magic"],
+    "artifact3" : ["http://pastebin.com/meD0BQdZd", "Artifact Contest 3: Time is of the Essence!"]
 };
 
 function setup(filepath) {
@@ -82,10 +82,14 @@ function parse() {
         outputstring += '<a href="#' + scripts[i].divid + '" class="btn btn-info btn-sm" role="button">Link to this Entry</a>&nbsp;';
         //If contest is in list of contests, also link to contest:
         if (contestmap.hasOwnProperty(scripts[i].divid)) {
-            outputstring += '<a href="' + contestmap[scripts[i].divid] + '" class="btn btn-success btn-sm" role="button">Contest Information</a>&nbsp;';
+            outputstring += '<a href="' + contestmap[scripts[i].divid][0] + '" class="btn btn-success btn-sm" role="button">Contest Information</a>&nbsp;';
         }
         outputstring += '</p>';
         outputstring += '<p>Release Date: ' + scripts[i].releasedate + '</p>';
+        //If contest is in list of contests, also note contest name:
+        if (contestmap.hasOwnProperty(scripts[i].divid)) {
+            outputstring += '<p>This script was submitted as an entry for the following contest: ' + contestmap[scripts[i].divid][1] + '</p>';
+        }
         var numvideos = scripts[i].videos.length;
         if (numvideos == 0) {
             outputstring += '<p>There are no videos available for this script. If there are videos and you would like to contribute them, please consider sending in a pull request.</p>';
