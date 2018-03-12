@@ -1,6 +1,21 @@
 {
     "scripts": [
         {
+            "name": "Jealous Green Eyes",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/jealous-green-eyes",
+            "releasedate": "March 11, 2018",
+            "videos": [
+                {  
+                    "youtubeid": "0Wp-THd1VPc",
+                    "uploader": "RemindMeToCheck",
+                    "channelurl": "https://www.youtube.com/channel/UCfETkmCTIIMUl_4Avor85gA",
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
+                }
+            ],
+            "divid": "parsee"
+        },
+        {
             "name": "Youkai Road",
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/range-18-youkai-road",
             "releasedate": "October 29, 2017",
@@ -115,6 +130,13 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/re-kana-ellen-script",
             "releasedate": "June 25, 2017",
             "videos": [
+                {  
+                    "youtubeid": "QazrkTj4oDU",
+                    "uploader": "RemindMeToCheck",
+                    "channelurl": "https://www.youtube.com/channel/UCfETkmCTIIMUl_4Avor85gA",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "rekanaellen"
         },

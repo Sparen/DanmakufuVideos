@@ -34,6 +34,13 @@
                     "type": "Let's Play",
                     "notes": ""
                 },
+                {  
+                    "youtubeid": "DO9SOZXpHSI",
+                    "uploader": "RemindMeToCheck",
+                    "channelurl": "https://www.youtube.com/channel/UCfETkmCTIIMUl_4Avor85gA",
+                    "type": "Standard",
+                    "notes": ""
+                },
                 {
                     "youtubeid": "fhVCnH-_ouM",
                     "uploader": "Sparen",
@@ -43,6 +50,21 @@
                 }
             ],
             "divid": "range18"
+        },
+        {
+            "name": "EX Rumia",
+            "download": "http://www.bulletforge.org/u/umbra/p/ex-rumia",
+            "releasedate": "October 2017",
+            "videos": [
+                {
+                    "youtubeid": "PKGvdrDu22I",
+                    "uploader": "RemindMeToCheck",
+                    "channelurl": "https://www.youtube.com/channel/UCfETkmCTIIMUl_4Avor85gA",
+                    "type": "Standard",
+                    "notes": ""
+                }
+            ],
+            "divid": "exrumia"
         },
         {
             "name": "Marisa",

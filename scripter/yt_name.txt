@@ -74,6 +74,9 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Pruns",
                     "channelurl": "https://www.youtube.com/channel/UCTPlfkRQoFmvw5FHszZ7rlg",
 
+                    "uploader": "RemindMeToCheck",
+                    "channelurl": "https://www.youtube.com/channel/UCfETkmCTIIMUl_4Avor85gA",
+
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
 
