@@ -79,7 +79,8 @@ function parse() {
         outputstring += '<div class="scriptdiv" id="' + scripts[i].divid + '">';
         outputstring += '<h1>' + scripts[i].name + '</h1>';
         outputstring += '<p><a target="_blank" href="' + scripts[i].download + '" class="btn btn-primary btn-sm" role="button">Download Link</a>&nbsp;';
-        outputstring += '<a href="#' + scripts[i].divid + '" class="btn btn-info btn-sm" role="button">Link to this Entry</a>&nbsp;';
+        //'Link to this Entry' currently disabled since the local # link doesn't work due to the dynamic nature of the page. Can still be used, but no need to confuse visitors.
+        //outputstring += '<a href="#' + scripts[i].divid + '" class="btn btn-info btn-sm" role="button">Link to this Entry</a>&nbsp;'; 
         //If contest is in list of contests, also link to contest:
         if (contestmap.hasOwnProperty(scripts[i].divid)) {
             outputstring += '<a href="' + contestmap[scripts[i].divid][0] + '" class="btn btn-success btn-sm" role="button">Contest Information</a>&nbsp;';
