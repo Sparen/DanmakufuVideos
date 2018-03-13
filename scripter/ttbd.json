@@ -40,6 +40,13 @@
                     "channelurl": "https://www.youtube.com/user/PikminH",
                     "type": "Let's Play",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "rnm_3ERWQzs",
+                    "uploader": "RemindMeToCheck",
+                    "channelurl": "https://www.youtube.com/channel/UCfETkmCTIIMUl_4Avor85gA",
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
                 }
             ],
             "divid": "suzumi"
