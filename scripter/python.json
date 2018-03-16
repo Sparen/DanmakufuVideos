@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "Bottle Music Duo (Namari Hanagoe & Fujiwara no Utsusu)",
+            "download": "http://www.bulletforge.org/u/python/p/bottle-music-duo-namari-hanagoe-fujiwara-no-utsusu",
+            "releasedate": "March 16, 2018",
+            "videos": [
+            ],
+            "divid": "hanagoeutsusu"
+        },
+        {
             "name": "Sumireko & Doremy: Dream Team - LOCAA 11 Entry",
             "download": "http://www.bulletforge.org/u/python/p/sumireko-doremy-dream-team-locaa-11-entry",
             "releasedate": "February 12, 2018",
