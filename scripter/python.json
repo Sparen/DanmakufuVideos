@@ -14,6 +14,13 @@
             "releasedate": "February 12, 2018",
             "videos": [
                 {  
+                    "youtubeid": "WliYHpx2bjc",
+                    "uploader": "<b>ParadoxPython (Python)</b>",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "bE6mtB8NFMM",
                     "uploader": "Conarnar",
                     "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
