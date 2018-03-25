@@ -6,6 +6,13 @@
             "releasedate": "February 19, 2018",
             "videos": [
                 {  
+                    "youtubeid": "x3nJl3Ht21Q",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "PhsTlqEMn08",
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
