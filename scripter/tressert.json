@@ -6,6 +6,13 @@
             "releasedate": "February 19, 2018",
             "videos": [
                 {  
+                    "youtubeid": "rNrSdp1jXrI",
+                    "uploader": "Conarnar",
+                    "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "x3nJl3Ht21Q",
                     "uploader": "ParadoxPython (Python)",
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
