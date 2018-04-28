@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "Ink-Based Trinity",
+            "download": "http://www.bulletforge.org/u/drythemeowstic/p/ink-based-trinity",
+            "releasedate": "April 28, 2018",
+            "videos": [
+            ],
+            "divid": "uwom1"
+        },
+        {
             "name": "Jealous Green Eyes",
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/jealous-green-eyes",
             "releasedate": "March 11, 2018",
