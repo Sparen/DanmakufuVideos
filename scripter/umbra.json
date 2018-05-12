@@ -1,6 +1,21 @@
 {
     "scripts": [
         {
+            "name": "Blueberry Team",
+            "download": "http://www.bulletforge.org/u/umbra/p/lenen-ocs-brother-team",
+            "releasedate": "April 29, 2018",
+            "videos": [
+                {  
+                    "youtubeid": "JIa88kCn1SU",
+                    "uploader": "ParadoxPython (Python)",
+                    "channelurl": "https://www.youtube.com/user/MrCountryfruit",
+                    "type": "Let's Play",
+                    "notes": "Collab with Sakana (SKN)"
+                }
+            ],
+            "divid": "blueberryteam"
+        },
+        {
             "name": "AoCF - Reimu and Yukari",
             "download": "http://www.bulletforge.org/u/umbra/p/aocf-reimu-and-yukari",
             "releasedate": "January 08, 2018",
