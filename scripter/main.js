@@ -54,6 +54,12 @@ function setup(filepath) {
                     '<p><a href="http://sparen.github.io">sparen.github.io</a></p>' + 
                     '<p>This page was generated from a local database that may not be up to date. Want to add to the database? See the repository on Github, linked below.</p>' +
                     '<p><a target="_blank" href="https://github.com/Sparen/DanmakufuVideos">Github repository</a></p>';
+            
+                    //If the user wanted to access a specific entry, scroll them down.
+                    var destid = location.hash.substring(1);
+                    if (destid != null && destid != undefined && destid != "") {
+                        document.getElementById(destid).scrollIntoView();
+                    }
             }
         }
     };
