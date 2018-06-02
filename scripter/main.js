@@ -87,7 +87,7 @@ function parse() {
     for (i = 0; i < scripts.length; i++) {
         tableofcontents += '<li><a href="#' + scripts[i].divid + '">' + scripts[i].name + '</a></li>';
         outputstring += '<div class="scriptdiv" id="' + scripts[i].divid + '">';
-        outputstring += '<h1><a href="' + scripts[i].divid + '"style="text-decoration: none"> ' + scripts[i].name + '</a></h1>';
+        outputstring += '<h1><a href="#' + scripts[i].divid + '"style="text-decoration: none"> ' + scripts[i].name + '</a></h1>';
         outputstring += '<p><a target="_blank" href="' + scripts[i].download + '" class="btn btn-primary btn-sm" role="button">Download Link</a>&nbsp;';
         //'Link to this Entry' currently disabled since the local # link doesn't work due to the dynamic nature of the page. Can still be used, but no need to confuse visitors.
         //outputstring += '<a href="#' + scripts[i].divid + '" class="btn btn-info btn-sm" role="button">Link to this Entry</a>&nbsp;'; 
