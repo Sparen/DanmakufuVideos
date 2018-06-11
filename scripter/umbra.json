@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "RaNGE 19 - Red Moon Insanity",
+            "download": "http://www.bulletforge.org/u/umbra/p/range-19-red-moon-insanity",
+            "releasedate": "June 11, 2018",
+            "videos": [
+            ],
+            "divid": "range19"
+        },
+        {
             "name": "Blueberry Team",
             "download": "http://www.bulletforge.org/u/umbra/p/lenen-ocs-brother-team",
             "releasedate": "April 29, 2018",
