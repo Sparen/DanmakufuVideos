@@ -5,6 +5,13 @@
             "download": "http://www.bulletforge.org/u/sparen/p/range-19-moonstruck-magician",
             "releasedate": "June 20, 2018",
             "videos": [
+                {
+                    "youtubeid": "s9vgI5BluVQ",
+                    "uploader": "<b>Sparen</b>",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "range19"
         },
