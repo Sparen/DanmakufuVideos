@@ -7,6 +7,11 @@ This database is live at https://sparen.github.io/DanmakufuVideos/
 
 Of course, the database is incomplete, and that's where you come in!
 
+# Contributing
+To contribute to this repository, you will need a GitHub account. For adding videos and new scripts, it should be relatively simple to simply go to the .json file in question and edit directly on GitHub, and then send a pull request.
+
+Specific details below:
+
 ## Scripter Pages - Creation
 * From index.html, there is a link to each scripter page in alphabetical order of preferred nickname/handle.  
 * Each scripter has a file/page in `/scripter`, consisting of their name in lowercase with no spaces. For example: `sparenofiria.html`. These are adjusted from the template (see `scripter/0_template.html`) - changes are made to the title, meta description, keywords, and header, so that the scripter's name is correct.  
@@ -29,13 +34,13 @@ The videos field is an array of objects, each with a youtube ID (when you see a 
 
 Order is the scripter first if they have uploaded videos of their own script, and then other videos in alphabetical order by video uploader's name (see the `scripter/yt_name.txt` document).
 
-The divid field is used for a unique ID that will be used to link to a certain part of the html file (in this case, link to the box for a given script). Contest names are preferred if available (see `sparenofiria.json`). This can be used to link to a certain entry from an external site (whether or not it works is a different story).  
+The divid field is used for a unique ID that will be used to link to a certain part of the html file (in this case, link to the box for a given script). Contest names are preferred if available (see `sparenofiria.json`). This can be used to link to a certain entry from an external site.  
 
 In regards to the uploader's name and channel url, refer to `scripter/yt_name.txt` for copy-pastable data.
 
 ## General Notes
 * Scripts are in reverse order of release, with **newer projects at the top**. 
-* Compilation and Collaboration videos are not to be included UNLESS the collab is part of a team with multiple videos - these will be reviewed on a case-by-case basis.
+* Compilation and Collaboration videos are not to be included UNLESS the collab is part of a team with multiple videos.
 * divids associated with contests should ensure that they are using an appropriate contest tag (see `scripter/main.js`) so that the contest's information page can be automatically linked.  
 
 All pull requests will be revised.
