@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "Artifact 3.5 - Untempered Schism - LOCAA 12 Entry",
+            "download": "http://www.bulletforge.org/u/python/p/artifact-35-untempered-schism-locaa-12-entry",
+            "releasedate": "November 10, 2018",
+            "videos": [
+            ],
+            "divid": "locaa12"
+        },
+        {
             "name": "Claustrophobia",
             "download": "http://www.bulletforge.org/u/python/p/claustrophobia",
             "releasedate": "April 02, 2018",

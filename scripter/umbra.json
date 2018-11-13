@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "LoCaA 12 - Suzubami Remake",
+            "download": "http://www.bulletforge.org/u/umbra/p/locaa-12-suzubami-remake",
+            "releasedate": "November 12, 2018",
+            "videos": [
+            ],
+            "divid": "locaa12"
+        },
+        {
             "name": "The Inception God",
             "download": "http://www.bulletforge.org/u/umbra/p/the-inception-god",
             "releasedate": "August 12, 2018",
