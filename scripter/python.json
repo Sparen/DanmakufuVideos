@@ -9,6 +9,35 @@
             "divid": "locaa12"
         },
         {
+            "name": "東方天珂竈 ~ Hidden Spice in Four Seasonings (Stage 6) version 1.00a",
+            "download": "http://www.bulletforge.org/u/python/p/dong-fang-tian-ke-zao-hidden-spice-in-four-seasonings-stage-6",
+            "releasedate": "2018",
+            "videos": [
+                {  
+                    "youtubeid": "C2PYkjfmibI",
+                    "uploader": "MegamanOmega184",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+                    "type": "Unvoiced Commentery",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "hzWIT4L5BdY",
+                    "uploader": "Pikmin H",
+                    "channelurl": "https://www.youtube.com/user/PikminH",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {
+                    "youtubeid": "mjkz37OZArU",
+                    "uploader": "Sparen",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Let's Play",
+                    "notes": ""
+                }
+            ],
+            "divid": "hsifs6"
+        },
+        {
             "name": "Claustrophobia",
             "download": "http://www.bulletforge.org/u/python/p/claustrophobia",
             "releasedate": "April 02, 2018",
