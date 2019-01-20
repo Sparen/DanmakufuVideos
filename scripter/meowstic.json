@@ -49,6 +49,13 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/range-18-youkai-road",
             "releasedate": "October 29, 2017",
             "videos": [
+                {
+                    "youtubeid": "wixj1b_xyhk",
+                    "uploader": "MegamanOmega184",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
+                },
                 {  
                     "youtubeid": "if_TgDFEa_0",
                     "uploader": "ParadoxPython (Python)",
