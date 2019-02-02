@@ -6,6 +6,13 @@
             "releasedate": "January 16, 2018",
             "videos": [
                 {
+                    "youtubeid": "tUQiXgRQEOw",
+                    "uploader": "MegamanOmega184",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
+                },
+                {
                     "youtubeid": "MhGDJ3FWQCY",
                     "uploader": "ParadoxPython (Python)",
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
