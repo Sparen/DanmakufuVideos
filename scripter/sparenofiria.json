@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "RaNGE Contest 20: Seasonal Rabbit",
+            "download": "http://www.bulletforge.org/u/sparen/p/range-20-seasonal-rabbit",
+            "releasedate": "March 27, 2019",
+            "videos": [
+            ],
+            "divid": "range20"
+        },
+        {
             "name": "RaNGE Contest 19: Moonstruck Magician",
             "download": "http://www.bulletforge.org/u/sparen/p/range-19-moonstruck-magician",
             "releasedate": "June 20, 2018",
