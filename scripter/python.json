@@ -15,7 +15,7 @@
             "videos": [
                 {  
                     "youtubeid": "C2PYkjfmibI",
-                    "uploader": "MegamanOmega184",
+                    "uploader": "MegamanOmega",
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
                     "type": "Unvoiced Commentery",
                     "notes": ""
@@ -412,7 +412,7 @@
             "videos": [
                 {  
                     "youtubeid": "-wKe-Ez7QB4",
-                    "uploader": "MegamanOmega184",
+                    "uploader": "MegamanOmega",
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
                     "type": "Unvoiced Commentery",
                     "notes": ""
@@ -508,6 +508,13 @@
                     "youtubeid": "tILxYPeRFGs",
                     "uploader": "Kirakishou7",
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "4u_Gqn_KzCc",
+                    "uploader": "Kumori Kuroi",
+                    "channelurl": "https://www.youtube.com/channel/UCTmqRR_WkoIr9TR1tAKTMAw",
                     "type": "Standard",
                     "notes": ""
                 },

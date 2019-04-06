@@ -51,7 +51,7 @@
             "videos": [
                 {
                     "youtubeid": "wixj1b_xyhk",
-                    "uploader": "MegamanOmega184",
+                    "uploader": "MegamanOmega",
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
                     "type": "Unvoiced Commentary",
                     "notes": ""
@@ -129,6 +129,13 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/nuclear-hell",
             "releasedate": "July 22, 2017",
             "videos": [
+                {
+                    "youtubeid": "__l-hbKpr9A",
+                    "uploader": "MegamanOmega",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
+                },
                 {  
                     "youtubeid": "J5HFj5oYEWk",
                     "uploader": "ParadoxPython (Python)",
@@ -357,7 +364,7 @@
             "videos": [
                 {
                     "youtubeid": "4AZChrAuxdo",
-                    "uploader": "MegamanOmega184",
+                    "uploader": "MegamanOmega",
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
                     "type": "Unvoiced Commentary",
                     "notes": ""
