@@ -5,6 +5,13 @@
             "download": "http://www.bulletforge.org/u/sparen/p/range-20-seasonal-rabbit",
             "releasedate": "March 27, 2019",
             "videos": [
+                {
+                    "youtubeid": "KwCA1HcZx_s",
+                    "uploader": "<b>Sparen</b>",
+                    "channelurl": "https://www.youtube.com/user/SparenofIria",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "range20"
         },
