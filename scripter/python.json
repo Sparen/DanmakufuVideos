@@ -5,6 +5,13 @@
             "download": "http://www.bulletforge.org/u/python/p/four-colors-of-the-moon-range-20-entry",
             "releasedate": "April 28, 2019",
             "videos": [
+                {  
+                    "youtubeid": "zHI7jH6VhpQ",
+                    "uploader": "WishMakers",
+                    "channelurl": "https://www.youtube.com/user/Codemaster10001",
+                    "type": "Voiced Commentery",
+                    "notes": ""
+                }
             ],
             "divid": "range20"
         },
