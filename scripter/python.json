@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "Limbus Puellarum",
+            "download": "http://www.bulletforge.org/u/python/p/limbus-puellarum",
+            "releasedate": "May 28, 2019",
+            "videos": [
+            ],
+            "divid": "ebisu"
+        },
+        {
             "name": "Four Colors of the Moon - RaNGE 20 Entry",
             "download": "http://www.bulletforge.org/u/python/p/four-colors-of-the-moon-range-20-entry",
             "releasedate": "April 28, 2019",
