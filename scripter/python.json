@@ -1,6 +1,14 @@
 {
     "scripts": [
         {
+            "name": "Augusta Iaponicorum",
+            "download": "https://www.bulletforge.org/u/python/p/augusta-iaponicorum",
+            "releasedate": "August 10, 2019",
+            "videos": [
+            ],
+            "divid": "sandy2019"
+        },
+        {
             "name": "Limbus Puellarum",
             "download": "http://www.bulletforge.org/u/python/p/limbus-puellarum",
             "releasedate": "May 28, 2019",
