@@ -41,7 +41,8 @@ var contestmap = {
     "locaa11" : ["https://docs.google.com/document/d/1SU8nKPbk1ZlUUOeKomsa0XcpC1Bw5TpcxIWNaGg4x3c", "LOCAA 11 - Perfect Possession Incident"],
     "artifact1" : ["https://www.shrinemaiden.org/forum/index.php/topic,16046.0.html", "Artifact Contest 1: The Pagoda of Bishamonten"],
     "artifact2" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subARTIFACT_2", "Artifact Contest 2: Augmented Magic"],
-    "artifact3" : ["http://pastebin.com/meD0BQdZd", "Artifact Contest 3: Time is of the Essence!"]
+    "artifact3" : ["http://pastebin.com/meD0BQdZd", "Artifact Contest 3: Time is of the Essence!"],
+    "bha1" : ["", "BULLET HELL ARTISTRY Contest #1: Elemental Carnival!"]
 };
 
 function setup(filepath) {
