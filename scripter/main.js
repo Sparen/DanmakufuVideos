@@ -26,6 +26,7 @@ var contestmap = {
     "range18" : ["https://www.shrinemaiden.org/forum/index.php/topic,21068.0.html", "RaNGE 18 - Extra Love"],
     "range19" : ["https://www.shrinemaiden.org/forum/index.php/topic,21457.0.html", "RaNGE 19 - Stolen Artifact: Reisen"],
     "range20" : ["https://www.shrinemaiden.org/forum/index.php/topic,23115.0.html", "RaNGE 20 - New Stars of Four Seasons"],
+    "range21" : ["https://www.shrinemaiden.org/forum/index.php/topic,29574.0.html", "RaNGE Contest #21: Beast-expelling Geometric Creatures"],
     "locaa1" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_1", "Borderlands Contest 1"],
     "locaa2" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_2", "Borderlands Contest 2"],
     "locaa3" : ["http://sparen.github.io/projects/contest/contestlocalbackup.html#subLOCAA_3", "LOCAA 3"],

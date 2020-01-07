@@ -53,9 +53,6 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "MegamanOmega",
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
 
-                    "uploader": "Metroidiscool (Rogus)",
-                    "channelurl": "https://www.youtube.com/channel/UCySP02HqY3I3sSnKFMHZSNg",
-
                     "uploader": "Miransu Uwabami",
                     "channelurl": "https://www.youtube.com/channel/UCse1W7tEW16t7qwkn6APBhQ",
 
@@ -83,9 +80,6 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Sparen",
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
 
-                    "uploader": "That Bullet Dodger",
-                    "channelurl": "https://www.youtube.com/channel/UCQLkEFe2-92NsrFpA4Gjzlg",
-
                     "uploader": "The Terrible Bullet Dodger (TTBD)",
                     "channelurl": "https://www.youtube.com/channel/UCfv9NiHc_7xk35aciflxGSw",
 
@@ -94,9 +88,6 @@ So that we have a consistent uploader naming convention across the entire databa
 
                     "uploader": "Trickysticks",
                     "channelurl": "https://www.youtube.com/user/MrTrickysticks",
-
-                    "uploader": "Umbra",
-                    "channelurl": "https://www.youtube.com/channel/UCexoDasg_k-24dgkvz07cww",
 
                     "uploader": "vichycatalan",
                     "channelurl": "https://www.youtube.com/user/vichycatalan",
