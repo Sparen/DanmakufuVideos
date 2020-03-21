@@ -13,6 +13,13 @@
             "download": "http://www.bulletforge.org/u/python/p/limbus-puellarum",
             "releasedate": "May 28, 2019",
             "videos": [
+            	{  
+                    "youtubeid": "dMvFPfUrfJw",
+                    "uploader": "AJS",
+                    "channelurl": "https://www.youtube.com/channel/UCoyW007Ohi_myWpXbXFalKw",
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
+                }
             ],
             "divid": "ebisu"
         },
@@ -25,7 +32,7 @@
                     "youtubeid": "zHI7jH6VhpQ",
                     "uploader": "WishMakers",
                     "channelurl": "https://www.youtube.com/user/Codemaster10001",
-                    "type": "Voiced Commentery",
+                    "type": "Let's Play",
                     "notes": ""
                 }
             ],
@@ -48,7 +55,7 @@
                     "youtubeid": "C2PYkjfmibI",
                     "uploader": "MegamanOmega",
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
-                    "type": "Unvoiced Commentery",
+                    "type": "Unvoiced Commentary",
                     "notes": ""
                 },
                 {  
@@ -445,7 +452,7 @@
                     "youtubeid": "-wKe-Ez7QB4",
                     "uploader": "MegamanOmega",
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
-                    "type": "Unvoiced Commentery",
+                    "type": "Unvoiced Commentary",
                     "notes": ""
                 },
                 {  

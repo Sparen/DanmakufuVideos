@@ -5,6 +5,9 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Ali-Iva",
                     "channelurl": "https://www.youtube.com/channel/UCrIanO2gT458AIu7QE2CPLw",
 
+                    "uploader": "AJS",
+                    "channelurl": "https://www.youtube.com/channel/UCoyW007Ohi_myWpXbXFalKw",
+
                     "uploader": "Ancient Meme",
                     "channelurl": "https://www.youtube.com/channel/UCI1OdTjlrjDjI9-E2UBq2JA",
 
