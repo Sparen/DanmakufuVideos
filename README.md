@@ -15,7 +15,7 @@ Specific details below:
 ## Scripter Pages - Creation
 * From index.html, there is a link to each scripter page in alphabetical order of preferred nickname/handle.  
 * Each scripter has a file/page in `/scripter`, consisting of their name in lowercase with no spaces. For example: `sparenofiria.html`. These are adjusted from the template (see `scripter/0_template.html`) - changes are made to the title, meta description, keywords, and header, so that the scripter's name is correct.  
-* In their pages, a scripter's website/Youtube/etc. are linked - those with no other sites of interest lack the div containing the links. The div itself supports factors of 12 numbers of links - 1, 2, 3, 4, and 6, essentially (due to Bootstrap).  
+* In their pages, a scripter's website/Youtube/etc. are linked - those with no other sites of interest lack the div containing the links. The div itself supports factors of 12 numbers of links - 1, 2, 3, 4, and 6, essentially (due to Bootstrap). There are no standards on the ordering here, but Website - Youtube - Twitch.tv - DeviantArt is the current ordering.  
 * In their pages, the body's onload() calls the json file with the same name as the scripter's page. See `sparenofiria.html` for more examples.  
 * If the scripter has a Youtube channel, in addition to the Youtube link, it is also recommended that a subscribe button be added as well. See `sparenofiria.html` for an example. If the channel has a long ID instead of a name, use `data-channelid` instead of `data-channel`.  
 * New scripter pages (html only) must be logged in the sitemap. This is done in order of adding rather than alphabetically.  
