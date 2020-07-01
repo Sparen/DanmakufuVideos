@@ -21,6 +21,13 @@
             "releasedate": "January 16, 2018",
             "videos": [
                 {
+                    "youtubeid": "S7TpNUsoS8E",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {
                     "youtubeid": "tUQiXgRQEOw",
                     "uploader": "MegamanOmega",
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
