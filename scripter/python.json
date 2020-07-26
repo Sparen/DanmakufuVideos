@@ -513,6 +513,13 @@
             "download": "http://www.bulletforge.org/u/python/p/little-mermaid-range-16-entry-by-python",
             "releasedate": "January 27, 2016",
             "videos": [
+            	{  
+                    "youtubeid": "a5moZiIrc3M",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": ""
+                },
                 {  
                     "youtubeid": "V5BAHTLJuJI",
                     "uploader": "Kira - Games&Stuff",
