@@ -352,6 +352,13 @@
             "releasedate": "April 10, 2017",
             "videos": [
                 {  
+                    "youtubeid": "V-Am7kGro04",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "EttJY675QFQ",
                     "uploader": "DANMAKUFU GOD",
                     "channelurl": "https://www.youtube.com/channel/UCgWfyABv8dQraFlKNVh5Y2A",
