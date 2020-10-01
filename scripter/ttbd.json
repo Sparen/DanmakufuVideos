@@ -1,6 +1,21 @@
 {
     "scripts": [
         {
+            "name": "Shipwreck Showdown",
+            "download": "https://www.bulletforge.org/u/ttbd/p/shipwreck-showdown-bha-2-contest-entry",
+            "releasedate": "September 05, 2019",
+            "videos": [
+                {
+                    "youtubeid": "hWh9MiVAv5c",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": ""
+                }
+            ],
+            "divid": "bha2"
+        },
+        {
             "name": "Weak-Willed Sunken Whirlpool",
             "download": "https://www.bulletforge.org/u/ttbd/p/weak-willed-sunken-whirlpool",
             "releasedate": "August 05, 2019",
