@@ -48,6 +48,13 @@
                     "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
                     "type": "Standard",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "n19mA67Jbb8",
+                    "uploader": "MegamanOmega",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
                 }
             ],
             "divid": "ebisu"
