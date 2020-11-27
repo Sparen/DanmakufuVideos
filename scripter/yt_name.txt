@@ -35,6 +35,9 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Gizmo the Dragon",
                     "channelurl": "https://www.youtube.com/channel/UCZ5215lQMfNIRLN3es-XTEg",
 
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+
                     "uploader": "Junkyx1122",
                     "channelurl": "https://www.youtube.com/channel/UCoz5ZOQGyObD_ZSMvQ8br5Q",
 
