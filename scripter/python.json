@@ -496,6 +496,13 @@
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
                     "type": "Let's Play",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "Zw5vF7nGtCc",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "locaa8"
