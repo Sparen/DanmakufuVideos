@@ -72,6 +72,13 @@
             "releasedate": "April 28, 2019",
             "videos": [
                 {  
+                    "youtubeid": "KYqjX8qZV4k",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "zHI7jH6VhpQ",
                     "uploader": "WishMakers",
                     "channelurl": "https://www.youtube.com/user/Codemaster10001",
