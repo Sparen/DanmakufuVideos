@@ -28,6 +28,13 @@
             "releasedate": "March 11, 2018",
             "videos": [
                 {  
+                    "youtubeid": "MAIEhJFxTwA",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "OLu6ElGp_HM",
                     "uploader": "ParadoxPython (Python)",
                     "channelurl": "https://www.youtube.com/user/MrCountryfruit",
