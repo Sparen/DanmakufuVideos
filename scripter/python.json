@@ -290,6 +290,13 @@
                     "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
                     "type": "Standard",
                     "notes": "No Miss"
+                },
+                {  
+                    "youtubeid": "c1IJOkKzFBg",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "hina"
@@ -364,6 +371,13 @@
             "download": "http://www.bulletforge.org/u/python/p/nemuno-sakata",
             "releasedate": "May 30, 2017",
             "videos": [
+                {  
+                    "youtubeid": "GRzPU1LHskI",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                },
                 {  
                     "youtubeid": "CfNZrW4ONHo",
                     "uploader": "Pikmin H",
@@ -746,6 +760,13 @@
                     "youtubeid": "b4bIRIqpmew",
                     "uploader": "Eternity Larva",
                     "channelurl": "https://www.youtube.com/channel/UC8LE7_f3BfvT4l3BCudV_4w",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
+                    "youtubeid": "vL-XpZIsqWw",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
                     "type": "Standard",
                     "notes": ""
                 }
