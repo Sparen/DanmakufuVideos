@@ -45,7 +45,9 @@ var contestmap = {
     "artifact2" : ["https://sparen.github.io/projects/contestdatabase.html#subARTIFACT_2", "Artifact Contest 2: Augmented Magic"],
     "artifact3" : ["https://sparen.github.io/projects/contestdatabase.html#subARTIFACT_3", "Artifact Contest 3: Time is of the Essence!"],
     "uwom1" : ["https://sparen.github.io/projects/contestdatabase.html#subUWOM_1", "Len’en Contest #1 - Monochromatic Madness"],
-    "bha1" : ["https://sparen.github.io/projects/contestdatabase.html#subBHE_1", "BULLET HELL ARTISTRY Contest #1: Elemental Carnival!"]
+    "bha1" : ["https://sparen.github.io/projects/contestdatabase.html#subBHE_1", "BULLET HELL ARTISTRY Contest #1: Elemental Carnival!"],
+    "bha2" : ["https://sparen.github.io/projects/contestdatabase.html#subBHE_2", "BULLET HELL ARTISTRY Contest #2: Unlikely Allies"],
+    "bha3" : ["https://sparen.github.io/projects/contestdatabase.html#subBHE_3", "BULLET HELL ARTISTRY Contest #3: Unexpected Mastermind 2"]
 };
 
 function setup(filepath) {
