@@ -420,6 +420,13 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/where-the-firefly-flies-range-16",
             "releasedate": "January 21, 2016",
             "videos": [
+                {  
+                    "youtubeid": "31mN1tl7fMA",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                },
                 {
                     "youtubeid": "ELheb4TWjvo",
                     "uploader": "Sparen",
