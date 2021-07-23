@@ -22,7 +22,7 @@
             ],
             "divid": "bha2"
         },
-        {
+        { 
             "name": "Augusta Iaponicorum",
             "download": "https://www.bulletforge.org/u/python/p/augusta-iaponicorum",
             "releasedate": "August 10, 2019",
@@ -262,6 +262,13 @@
                     "notes": ""
                 },
                 {  
+                    "youtubeid": "bzHTRG72MCw",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "IfqFravY7IY",
                     "uploader": "Pikmin H",
                     "channelurl": "https://www.youtube.com/user/PikminH",
@@ -421,6 +428,13 @@
                     "type": "Let's Play",
                     "notes": ""
                 },
+                {  
+                    "youtubeid": "VGic97l7V8c",
+                    "uploader": "MegamanOmega",
+                    "channelurl": "https://www.youtube.com/user/MegamanOmega184",
+                    "type": "Unvoiced Commentary",
+                    "notes": ""
+                }
                 {  
                     "youtubeid": "SYHCaSAvuyE",
                     "uploader": "TheMariomaster",
