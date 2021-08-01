@@ -56,6 +56,13 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/range-18-youkai-road",
             "releasedate": "October 29, 2017",
             "videos": [
+                {  
+                    "youtubeid": "R2T_8lsO3Vo",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                },
                 {
                     "youtubeid": "wixj1b_xyhk",
                     "uploader": "MegamanOmega",
