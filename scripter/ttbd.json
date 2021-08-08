@@ -5,6 +5,13 @@
             "download": "https://www.bulletforge.org/u/ttbd/p/super-youkai-warhead-nitori-kawashiro-bha-3-contest-entry",
             "releasedate": "February 27, 2021",
             "videos": [
+                {  
+                    "youtubeid": "DjBE6G7bXWg",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "bha3"
         },
