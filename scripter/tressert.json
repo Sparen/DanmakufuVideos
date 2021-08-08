@@ -158,6 +158,13 @@
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
                     "type": "Standard",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "Ht5ggwMSNDs",
+                    "uploader": "Lusus",
+                    "channelurl": "https://www.youtube.com/user/ProjectLeviamon",
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "range15"
