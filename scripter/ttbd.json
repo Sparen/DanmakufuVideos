@@ -222,6 +222,13 @@
                     "channelurl": "https://www.youtube.com/channel/UCfv9NiHc_7xk35aciflxGSw",
                     "type": "Standard",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "iKgTO0Z55z8",
+                    "uploader": "Lusus",
+                    "channelurl": "https://www.youtube.com/user/ProjectLeviamon",
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "hecatia"
