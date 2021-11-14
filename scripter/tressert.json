@@ -160,6 +160,13 @@
             "releasedate": "October 31, 2015",
             "videos": [
                 {  
+                    "youtubeid": "uWK3Dft57_I",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "5fTvobYofjc",
                     "uploader": "Kirakishou7",
                     "channelurl": "https://www.youtube.com/channel/UC8v3CtPnVMQSeNGr2uDtUUQ",
