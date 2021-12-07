@@ -224,6 +224,13 @@
             "download": "http://www.bulletforge.org/u/tressert/p/contradictory-catastrophe-tressert",
             "releasedate": "February 19, 2015",
             "videos": [
+                {  
+                    "youtubeid": "UY728e0rnyE",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                }
             ],
             "divid": "range13"
         },
