@@ -156,6 +156,13 @@
                     "channelurl": "https://www.youtube.com/user/SparenofIria",
                     "type": "Standard",
                     "notes": ""
+                },
+                {  
+                    "youtubeid": "EgBwQi9GUY0",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
                 }
             ],
             "divid": "range16"
