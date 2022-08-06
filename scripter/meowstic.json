@@ -107,6 +107,13 @@
             "releasedate": "September 2017",
             "videos": [
             	{  
+                    "youtubeid": "HgZfdybbioE",
+                    "uploader": "CreepyNinja",
+                    "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
+                    "type": "Standard",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "W3R0Thapq3M",
                     "uploader": "Horrible Tales",
                     "channelurl": "https://www.youtube.com/c/HorribleTales",
