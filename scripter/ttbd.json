@@ -245,6 +245,13 @@
             "download": "http://www.bulletforge.org/u/auto2112/p/sakuya-fight",
             "releasedate": "October 16, 2016",
             "videos": [
+                {  
+                    "youtubeid": "a9ft0oNjMG8",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                },
                 {
                     "youtubeid": "zsyNr5Q5wsg",
                     "uploader": "Pikmin H",
