@@ -418,6 +418,13 @@
             "download": "http://www.bulletforge.org/u/drythemeowstic/p/orin-boss-fight",
             "releasedate": "",
             "videos": [
+                {  
+                    "youtubeid": "1Z76qTCcqjE",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": ""
+                },
                 {
                     "youtubeid": "4AZChrAuxdo",
                     "uploader": "MegamanOmega",
