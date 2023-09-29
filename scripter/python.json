@@ -35,6 +35,13 @@
             "releasedate": "August 10, 2019",
             "videos": [
                 {  
+                    "youtubeid": "40mqBkDtxa8",
+                    "uploader": "Horrible Tales",
+                    "channelurl": "https://www.youtube.com/c/HorribleTales",
+                    "type": "Standard",
+                    "notes": "Extra Stage"
+                },
+                {  
                     "youtubeid": "BJN--mSOA7A",
                     "uploader": "MegamanOmega",
                     "channelurl": "https://www.youtube.com/user/MegamanOmega184",
