@@ -20,6 +20,13 @@
             "download": "https://www.bulletforge.org/u/ttbd/p/shipwreck-showdown-bha-2-contest-entry",
             "releasedate": "September 05, 2019",
             "videos": [
+                {  
+                    "youtubeid": "BTxhHDsQEJk",
+                    "uploader": "Bullet Hell Engines",
+                    "channelurl": "https://www.youtube.com/@BulletHellEngines",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
                 {
                     "youtubeid": "hWh9MiVAv5c",
                     "uploader": "CreepyNinja",

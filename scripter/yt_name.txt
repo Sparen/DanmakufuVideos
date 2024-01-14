@@ -11,6 +11,9 @@ So that we have a consistent uploader naming convention across the entire databa
                     "uploader": "Ancient Meme",
                     "channelurl": "https://www.youtube.com/channel/UCI1OdTjlrjDjI9-E2UBq2JA",
 
+                    "uploader": "Bullet Hell Engines",
+                    "channelurl": "https://www.youtube.com/@BulletHellEngines",
+
                     "uploader": "Conarnar",
                     "channelurl": "https://www.youtube.com/channel/UCl2p50tCbamsLl_BxFyDAwg",
 
