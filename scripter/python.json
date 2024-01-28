@@ -6,6 +6,13 @@
             "releasedate": "September 2020",
             "videos": [
                 {  
+                    "youtubeid": "vKLHPqBra3U",
+                    "uploader": "Bullet Hell Engines",
+                    "channelurl": "https://www.youtube.com/@BulletHellEngines",
+                    "type": "Let's Play",
+                    "notes": ""
+                },
+                {  
                     "youtubeid": "LBOMQq5klug",
                     "uploader": "CreepyNinja",
                     "channelurl": "https://www.youtube.com/channel/UCaCp7EeWfpgLhKrmNZV_mHA",
